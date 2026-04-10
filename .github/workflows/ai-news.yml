@@ -1,0 +1,55 @@
+name: AI News
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Fetch latest AI news
+        run: node scripts/run-news.js
+
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit updated news data if changed
+        id: commit_news
+        shell: bash
+        run: |
+          if git diff --quiet -- data/ai-news.json; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "No changes detected in data/ai-news.json"
+            exit 0
+          fi
+
+          git add data/ai-news.json
+          git commit -m "chore: update AI news feed"
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Push changes
+        if: steps.commit_news.outputs.changed == 'true'
+        run: git push

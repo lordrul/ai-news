@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Prompt Architect</title>
+  <link rel="stylesheet" href="/css/styles.css">
+  <script src="https://cdn.jsdelivr.net/npm/lucide@0.263.0/dist/umd/lucide.min.js"></script>
+</head>
+<body class="app-body" data-page="prompt-architect">
+  <div class="page-shell">
+    <div class="glow-orb glow-orb-teal-left"></div>
+    <div class="glow-orb glow-orb-blue-right"></div>
+
+    <div class="page-wrap">
+      <section class="page-hero compact">
+        <div class="container">
+          <div class="hero-copy">
+            <div class="section-badge">RISEN System</div>
+            <h1 class="hero-title">Prompt Architect</h1>
+            <p class="hero-text">Transform structured inputs into a reusable prompt blueprint with the same visual language as the portfolio system.</p>
+          </div>
+        </div>
+      </section>
+
+      <section class="section section-tight">
+        <div class="container">
+          <div class="tool-layout">
+            <section class="tool-panel card-glass">
+              <h2 class="card-title">Input</h2>
+              <p class="tool-copy">Define the goal, scenario, constraints, and output format. The tool will assemble them into a clear RISEN-style prompt block.</p>
+
+              <div class="field">
+                <label class="field-label" for="goal">Goal</label>
+                <textarea id="goal" class="tool-textarea" placeholder="Describe the primary task or intended outcome."></textarea>
+              </div>
+
+              <div class="field">
+                <label class="field-label" for="context">Context</label>
+                <textarea id="context" class="tool-textarea" placeholder="Add scenario details, audience, background, or domain context."></textarea>
+              </div>
+
+              <div class="field">
+                <label class="field-label" for="constraints">Constraints</label>
+                <textarea id="constraints" class="tool-textarea" placeholder="List restrictions, exclusions, boundaries, or quality requirements."></textarea>
+              </div>
+
+              <div class="field">
+                <label class="field-label" for="style">Output Style</label>
+                <textarea id="style" class="tool-textarea" placeholder="Specify structure, tone, formatting, or delivery style."></textarea>
+              </div>
+
+              <div class="tool-actions">
+                <button id="generate-prompt" class="btn-primary" type="button">Generate Prompt</button>
+              </div>
+            </section>
+
+            <section class="tool-panel card-glass">
+              <h2 class="card-title">Output</h2>
+              <p class="tool-copy">Review the generated prompt, refine your inputs, and copy the final prompt into your workflow or GPT builder.</p>
+
+              <div id="output" class="output-box is-empty">Your generated prompt will appear here.</div>
+              <div id="status" class="status-text"></div>
+
+              <div class="tool-actions">
+                <button id="copy-prompt" class="btn-outline" type="button">Copy Prompt</button>
+              </div>
+            </section>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+
+  <script src="/js/script.js"></script>
+</body>
+</html>

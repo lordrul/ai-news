@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>ShahrulFadly</title>
+
+  <style>
+    :root {
+      --bg-dark: #050505;
+      --bg-light: #111;
+      --text-main: #f5f5f7;
+      --text-sub: #8e8e93;
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      height: 100vh;
+      overflow: hidden;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: radial-gradient(circle at 50% 40%, #1c1c1e 0%, #050505 70%);
+      font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display",
+                   "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      color: var(--text-main);
+    }
+
+    .hero {
+      text-align: center;
+      position: relative;
+      padding: 20px;
+    }
+
+    h1 {
+      font-size: clamp(3rem, 8vw, 6rem);
+      font-weight: 600;
+      letter-spacing: -0.03em;
+      line-height: 1.05;
+      background: linear-gradient(180deg, #ffffff 0%, #cfcfd2 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      opacity: 0;
+      transform: translateY(20px);
+      animation: fadeUp 1.2s ease forwards;
+    }
+
+    p {
+      margin-top: 18px;
+      font-size: clamp(0.9rem, 1.8vw, 1.2rem);
+      color: var(--text-sub);
+      letter-spacing: 0.35em;
+      text-transform: uppercase;
+      opacity: 0;
+      transform: translateY(20px);
+      animation: fadeUp 1.2s ease forwards;
+      animation-delay: 0.3s;
+    }
+
+    .hero::before {
+      content: "";
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      width: 500px;
+      height: 500px;
+      transform: translate(-50%, -50%);
+      background: radial-gradient(circle, rgba(255,255,255,0.08), transparent 70%);
+      filter: blur(60px);
+      z-index: -1;
+    }
+
+    @keyframes fadeUp {
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    body::after {
+      content: "";
+      position: absolute;
+      width: 120%;
+      height: 120%;
+      background: radial-gradient(circle at 50% 50%, rgba(255,255,255,0.03), transparent 70%);
+      animation: breathe 8s ease-in-out infinite;
+      z-index: -2;
+    }
+
+    @keyframes breathe {
+      0%, 100% {
+        transform: scale(1);
+        opacity: 0.6;
+      }
+      50% {
+        transform: scale(1.05);
+        opacity: 1;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <div class="hero">
+    <h1>ShahrulFadly</h1>
+    <p>AI Systems Architect</p>
+  </div>
+</body>
+</html>
