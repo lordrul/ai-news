@@ -1,5 +1,17 @@
 [
   {
+    "title": "Adobe embraces conversational AI editing, marking a ‘fundamental shift’ in creative work",
+    "summary": "You don’t need to understand any fancy editing terms — just describe what changes you want to make. | Image: Adobe\t\n\nAdobe is fully embracing AI tools that enable creators to edit their work using descriptive prompts, instead of manually using specific Creative Cloud apps. The software giant's new Firefly AI Assistant allows users to describe what they want to change by typing their own words into a conversational interface. \nAdobe says this marks a \"fundamental shift in how creative work is done\" by removing skill barriers and laborious tasks, while still giving creatives full control over their work. It'll be \"available soon\" on the Firefly AI studio platform according to Adobe, though no specific launch date was provided in the announcement.\nThe unifi …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/tech/912287/adobe-firefly-ai-assistant-announcement-editing",
+    "date": "2026-04-15T13:00:00.000Z"
+  },
+  {
+    "title": "Grok’s sexual deepfakes almost got it banned from Apple’s App Store. Almost. ",
+    "summary": "Apple quietly threatened to kick Elon Musk's AI app, Grok, from its App Store in January over its failure to curb the surge of nonconsensual sexual deepfakes flooding X, according to NBC News. It was a muted show of force from one of tech's most powerful gatekeepers, made behind closed doors even as the undressing crisis unfolded in full public view and criticism over Apple's cowardice mounted.\nIn a letter obtained by NBC News, Apple told US senators it \"contacted the teams behind both X and Grok after it received complaints and saw news coverage of the scandal\" and demanded that the developers \"create a plan to improve content moderation.\" …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/912297/apple-app-store-ban-grok-x-deepfakes",
+    "date": "2026-04-15T10:55:22.000Z"
+  },
+  {
     "title": "The attacks on Sam Altman are a warning for the AI world",
     "summary": "Before allegedly throwing a Molotov cocktail at OpenAI CEO Sam Altman's home, the 20-year-old accused attacker wrote about his fear that the AI race would cause humans to go extinct, the San Francisco Chronicle found. Two days later, Altman's home appeared to be targeted a second time, according to The San Francisco Standard. Only a week earlier, an Indianapolis councilman reported 13 shots fired at his door, with a note that read \"No Data Centers,\" after he'd supported a rezoning petition for a data center developer.\nThese unsettling incidents have set off alarms in and around the AI industry. There's long been a vocal resistance to the te …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/ai-artificial-intelligence/911778/ai-violence-sam-altman-home",
@@ -76,17 +88,5 @@
     "summary": "OpenAI released a report breaking down how people use ChatGPT and who they are. | Image: The Verge\t\n\nOpenAI's chief revenue officer, Denise Dresser, sent a four-page memo to employees on Sunday about the company's strategic direction, emphasizing the need to lock in users and grow its enterprise business. \nThe memo, which was viewed by The Verge, repeatedly underlines the importance of building a moat around its AI products, to combat how easy it is for users to switch between whichever model is topping the charts on any given day or week. Dresser, who recently took over much of former COO Brad Lightcap's duties as he transitions to a new role focused on special projects, also emphasizes the importance of focusing on enterprise clients. It …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic",
     "date": "2026-04-13T16:21:08.000Z"
-  },
-  {
-    "title": "Microsoft is testing OpenClaw-like AI bots for Copilot",
-    "summary": "Microsoft is looking into ways it can integrate OpenClaw-style features into its Copilot AI assistant, according to a report from The Information. The test reportedly comes as part of efforts to make Microsoft 365 Copilot \"run autonomously around the clock\" while completing tasks on behalf of users.\nOmar Shahine, Microsoft's corporate vice president, confirmed to The Information that the company is \"exploring the potential of technologies like OpenClaw in an enterprise context.\"  OpenClaw is an open-source platform that allows users to create AI-powered agents that run locally on a user's device. The platform rose in popularity earlier this …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/tech/911080/microsoft-ai-openclaw-365-businesses",
-    "date": "2026-04-13T15:41:09.000Z"
-  },
-  {
-    "title": "Mark Zuckerberg is reportedly building an AI clone to replace him in meetings",
-    "summary": "Meta CEO Mark Zuckerberg could soon have an AI clone of himself to interact with and provide feedback to employees, according to a report from the Financial Times. Sources tell the outlet that Meta is training the AI avatar on Zuckerberg's image and voice, along with his mannerisms, tone, and public statements, \"so that employees might feel more connected to the founder through interactions with it.\"\nMeta may start allowing creators to make AI avatars of themselves if the experiment with Zuckerberg succeeds, according to the Financial Times. In 2024, Meta showed off a live demo of what an AI persona of a creator might look like. It also sta …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/tech/910990/meta-ceo-mark-zuckerberg-ai-clone",
-    "date": "2026-04-13T13:40:03.000Z"
   }
 ]
