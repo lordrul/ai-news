@@ -1,7 +1,7 @@
 [
   {
     "title": "Cloud development platform Vercel was hacked",
-    "summary": "Vercel, a major development platform that hosts and deploys web apps, was compromised, and the hackers are attempting to sell stolen data. A person claiming to be a member of ShinyHunters, which was behind the recent hack of Rockstar Games, posted some data online, including employee names, email addresses, and activity time stamps. Vercel confirmed in a post on X that a \"security incident\" had occurred, and that it impacted a \"limited subset\" of its customers. Vercel said that a compromised third-party AI tool was the avenue for attack, though it did not specify which third-party was involved.\n\n\nWe've identified a security incident that inv …\n\n\nRead the full story at The Verge.",
+    "summary": "Vercel, a major development platform that hosts and deploys web apps, was compromised, and the hackers are attempting to sell stolen data. A person claiming to be a member of ShinyHunters, which was behind the recent hack of Rockstar Games, posted some data online, including employee names, email addresses, and activity time stamps. Vercel confirmed in a post on X that a \"security incident\" had occurred, and that it impacted a \"limited subset\" of its customers. Vercel said that a compromised third-party AI tool was the avenue for attack, though it did not specify which third party was involved.\n\n\nWe've identified a security incident that inv …\n\n\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/tech/914723/vercel-hacked",
     "date": "2026-04-19T19:54:52.000Z"
   },
