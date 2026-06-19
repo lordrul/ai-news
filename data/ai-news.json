@@ -1,5 +1,11 @@
 [
   {
+    "title": "The film about Sam Altman has been dropped by Amazon MGM",
+    "summary": "Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. \nThe film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spanning Altman's termination and reinstatement as CEO, had been in the works for about a year. The cast also includes A Complete Unknown actress Monica Barbaro as OpenAI CTO Mira Murati, Ike Barinholtz as Elon Musk, and Anora's Yura Borisov as OpenAI chief scientist Ilya Sutskever.\nIn a statement to Deadline, the studio said it believes the movie \"will be better served if it were released by a different studio and is working closely with the filmmak …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
+    "date": "2026-06-19T14:15:29.000Z"
+  },
+  {
     "title": "Barret Zoph is out at OpenAI again after just five months",
     "summary": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned. \nZoph returned to OpenAI in mid-January after a stint as co-founder and CTO of Thinking Machines Lab, the competing AI company founded by former OpenAI CTO Mira Murati. Shortly after Zoph returned to OpenAI, the company said he would lead its push into enterprise - a significant role at OpenAI, since in recent months it had vowed to stop chasing so-called \"side quests\" and focus on key revenue drivers like enterprise and coding ahead of its planned IPO. \nOpenAI confirmed to The Verge that Zoph will be depart …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
@@ -82,11 +88,5 @@
     "summary": "According to the latest Pew Research poll, 49 percent of Americans report using chatbots at least occasionally, but 63 percent think the tech is advancing too quickly. Overall, use of AI chatbots has increased dramatically since 2024, when only 33 percent reported using them. Specifically, ChatGPT's usage has doubled since 2023, with 44 percent of respondents saying they've used it. But opinions remain negative, with only 16 percent saying that AI will have a positive impact on society.\nInterestingly, it's the younger generations who both report using AI more and who are inclined to have a more pessimistic view. 66 percent of Americans betw …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly",
     "date": "2026-06-17T17:20:24.000Z"
-  },
-  {
-    "title": "Vibe-decoding the White House-Anthropic fight over Fable",
-    "summary": "CEO of Anthropic Dario Amodei attends a working lunch with G7 leaders, G7 outreach partners, and global tech CEOs on innovation and AI, during the G7 Summit on June 17th, 2026, in Evian-les-Bains, France. | Photo: Anna Moneymaker / Getty Images\t\n\nHello and welcome to Regulator, an email for Verge subscribers about technology, politics, and what happens when science crashes headlong into self-interest. Not a subscriber? Sign up here today! Got the scoop on a petty feud that's going to somehow fundamentally reshape the entire field of frontier AI development? Send 'em over to tina.nguyen+tips@theverge.com.\nBack when I was covering Donald Trump's first presidency, it was incredibly common to read three different versions of the same story. His administration had split into several factions, all of which had different interests, and all of which hated each other. There was the Reince Pr …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/column/951516/trump-anthropic-feud-mythos-fable-white-house",
-    "date": "2026-06-17T16:27:00.000Z"
   }
 ]
