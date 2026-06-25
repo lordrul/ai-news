@@ -1,7 +1,13 @@
 [
   {
+    "title": "Ford had to hire back former engineers to fix mistakes made by its automated systems",
+    "summary": "To celebrate its new status as No. 1 in JD Power's initial quality ranking among mainstream automakers, Ford is opening up about the challenges it has faced in recent years, especially around its reliance on automated systems in production and design. It turns out that those automated systems were not as robust as previously assumed, requiring Ford to hire experienced technicians - sometimes bringing back former employees - to correct errors made by the company's robots. \nIn Ford's view, AI is both powerful and prone to pitfalls. Its effectiveness depends entirely on the quality of the data used to train the AI models. In addition, the auto …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes",
+    "date": "2026-06-25T12:00:00.000Z"
+  },
+  {
     "title": "Facebook’s Creator Studio has been revived as an AI companion app",
-    "summary": "This is what the new Creator Studio app looks like, after the original service was shuttered in 2023. | Image: Meta\t\n\nMeta is bringing back the Facebook Creator Studio page manager, now \"reimagined\" as a standalone AI companion app. The new app aims to make it easier for creators to connect with their audiences, and show them \"exactly how to grow on Facebook,\" according to Meta's announcement.\nMeta's AI Creator Assistant is a central focus of the newly reimagined app - users can ask the chatbot to provide performance tracking insights and tailored recommendations for improving engagement. It can also be used to find \"the most important comments\" left by the user's audience, and \"instantly draft replies in your voice.\"\nThe Creator Studio app isn't widely a …\nRead the full story at The Verge.",
+    "summary": "This is what the new Creator Studio app looks like, after the original service was shuttered in 2023. | Image: Meta\t\n\nMeta is bringing back the Facebook Creator Studio page manager, now \"reimagined\" as a standalone AI companion app. The new app aims to make it easier for creators to connect with their audiences and show them \"exactly how to grow on Facebook,\" according to Meta's announcement.\nMeta's AI Creator Assistant is a central focus of the newly reimagined app - users can ask the chatbot to provide performance tracking insights and tailored recommendations for improving engagement. It can also be used to find \"the most important comments\" left by the user's audience and \"instantly draft replies in your voice.\"\nThe Creator Studio app isn't widely ava …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
     "date": "2026-06-25T09:06:19.000Z"
   },
@@ -82,11 +88,5 @@
     "summary": "A new update for Google Home could make it less likely your smart home cameras mistake you for someone else, just because you're facing away from the camera. Starting June 23rd, Google's expanding its facial recognition feature so that people you've tagged in your Familiar Faces library can continue to be identified when their faces aren't clearly visible, using \"additional non-biometric signals (body size, clothing color, etc.).\" \nThe Familiar Faces library will also begin automatically updating with the most recent images of everyone in your house, so you should get fewer inaccurate notifications from outdated examples.\nGoogle also says  …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/tech/955385/google-home-familiar-faces-clothing",
     "date": "2026-06-23T22:28:19.000Z"
-  },
-  {
-    "title": "Hollywood is bending the knee to OpenAI",
-    "summary": "Netflix, A24, Focus Features, and Warner Bros.' Clockwork have all reportedly decided to pass on picking up Artificial - director Luca Guadagnino's new biographical drama about OpenAI cofounder / CEO Sam Altman - for distribution deals. And while Neon and Mubi are still said to be interested in the film, this situation makes it seem like Hollywood no longer has the courage to tell critical stories about Big Tech.\nPostproduction on Artificial was nearly finished when Amazon MGM unexpectedly announced last week that it no longer plans to distribute the film. The news came as a surprise given how far along the movie was and reports that Amazon …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt",
-    "date": "2026-06-23T22:03:18.000Z"
   }
 ]
