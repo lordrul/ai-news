@@ -1,5 +1,11 @@
 [
   {
+    "title": "The fanfiction community is at war with AI — and itself",
+    "summary": "Fanfiction communities are trying to hunt down writers who haven’t written works with their own hands. | Image: Álvaro Bernis / The Verge\t\n\nOver the past week, a new fanworks movement has kicked off, with the aim to root out authors using generative AI. But the detection methods being implemented are questionable, and any fanfic writer could be caught in the crossfire.\nBroad distaste around the use of Claude, ChatGPT, and other AI tools has long been a thing in creative communities, including the world of fanfiction. Readers and writers have passed around tips for spotting supposedly AI-generated works, citing anything from em dashes to the broad concept of purple prose. But on June 29th, an anonymous X account called @heatedrivalryai promised a seemingly more reliable solution …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
+    "date": "2026-07-04T12:00:00.000Z"
+  },
+  {
     "title": "Anthropic wants to develop its own drugs",
     "summary": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, and generates figures and visuals. Anthropic, already dominating the industry with its popular coding tools and powerful AI models, framed the launch around what it says is AI's potential to \"dramatically accelerate the pace of scientific discovery and the development of healthcare interventions,\" and touted a long list of biotech and pharma customers already using Claude. \nAnthropic also went a step further, saying it would develop drugs of its  …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
@@ -82,11 +88,5 @@
     "summary": "A new teaser trailer confirmed that Wonka's The Golden Ticket will premiere on Netflix on September 23rd, following its Squid Game reality show in the trend of creating real competitions based on fictional torture scenarios. While the sets seen in the trailer are real and not some Glasgow-style AI fakes, the voiceover is AI-generated. \nDeadline reports that Netflix worked with AI audio company ElevenLabs with consent from Wilder's family, after working on productions re-creating the voice of Michael Caine and Stan Lee. It also continues Netflix's 2021 partnership with the Roald Dahl company, and is separate from the Charlie vs. the Chocolat …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
     "date": "2026-06-30T17:19:15.000Z"
-  },
-  {
-    "title": "Libby will filter out AI content, kind of",
-    "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week.\n\"AI is the new frontier for us,\" says Marc DeBevoise, who took over as the new CEO of OverDrive last week. OverDrive is best known for the ebook lending app Libby that is available through tens of thousands of public libraries. Like the rest of the digital publishing industry, it's poised to face massive disruption from a huge wave of AI-generated books.\nTo prepare for the AI onslaught, Libby is now getting ready to introduce AI content controls, allowing readers to select in t …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/column/959433/libby-ai-filter",
-    "date": "2026-06-30T15:30:00.000Z"
   }
 ]
