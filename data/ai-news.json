@@ -1,5 +1,11 @@
 [
   {
+    "title": "Some of the nation’s rich are letting AI teach their kids",
+    "summary": "Most Americans don't trust AI. It's proven that it doesn't know what safe toppings for pizza are. People don't even want to listen to AI music. But none of that matters for some of America's wealthy, who are turning to AI to teach their kids instead of traditional schools.\nCompanies like Forge Prep and Alpha School are charging families tens of thousands of dollars to turn their kids into beta testers for AI tutors and \"interactive project-based workshops.\" Unsurprisingly, Silicon Valley have been major adopters of this new model. Shaun Johnson, a San Francisco-based venture capitalist, told the Wall Street Journal that he plans to send his …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
+    "date": "2026-07-05T22:30:54.000Z"
+  },
+  {
     "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
     "summary": "I call BS: the founding fathers definitely would have been Microsoft Teams users. | Image: Google\t\n\n\"Group project, but make it 1776.\" That's how a new commercial for Google Workspace opens. And things only get cringier from there. The clip imagines what it would be like if the founding fathers turned to Google's collaboration tools and Gemini to help them draft the Declaration of Independence. \nBen Franklin texts Thomas Jefferson to check on the status of a draft, who takes a photo and uses AI to transcribe it into a Google Doc. Franklin and Adams hop in to make edits in suggestion mode, Gemini finds them a meeting time, takes notes during a Google Meet call, and then Nano Banana whips up a seal for the United States featuring a turkey ( …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
@@ -82,11 +88,5 @@
     "summary": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a post on X, Anthropic said it plans to begin restoring access Wednesday to users globally on Claude platforms, and that the company would re-enable access on AWS, Google Cloud, and Microsoft Foundry soon, but with no set timeline.\nAnthropic wrote:\nWe've received notice that the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5.\nWe'll begin restoring access tomorrow, and will share an update soon.\nWe're grateful to our users for their patience, and to everyone who work …\n\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
     "date": "2026-07-01T00:03:55.000Z"
-  },
-  {
-    "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
-    "summary": "Google's NotebookLM is adding a new way to catch up on your notes: TikTok-style AI videos. The new feature is rolling out to Google AI Ultra and Pro subscribers, allowing NotebookLM to generate 60-second vertical AI clips based on the sources you upload to the app.\nThe example shared by Google details Australia's unsuccessful war on emus, pairing paper cutout-style AI art of emus with narration. It adds to some of the other ways NotebookLM lets you interact with your research, including by generating AI podcasts, cinematic videos, and visual explainers.\n\n\nDoom scrolling but make it educational ðŸ¤“\nIntroducing Short Video Overviews in Notebo …\n\n\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
-    "date": "2026-06-30T19:24:51.000Z"
   }
 ]
