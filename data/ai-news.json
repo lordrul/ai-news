@@ -1,5 +1,11 @@
 [
   {
+    "title": "China delivers a one-two punch to America’s AI dominance ",
+    "summary": "China's leading AI companies are ramping up the pressure on Silicon Valley, as Moonshot and Alibaba unveiled models they claim can go toe-to-toe with the best from OpenAI and Anthropic at a fraction of the cost. The rapid-fire releases suggest America's lead at the AI frontier is increasingly tight, just as the technology is becoming central to national security, economic power, and geopolitical influence. \nThe opening salvo came from Beijing-based Moonshot AI, one of China's leading AI model developers, which unveiled Kimi K3 on Friday. Moonshot claims its own testing ranks it consistently above nearly every US system, trailing only OpenAI …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
+    "date": "2026-07-20T10:16:33.000Z"
+  },
+  {
     "title": "I hate that I don’t hate this song made with Suno",
     "summary": "1010Benja won’t apologize for using AI. | Image: 1010Benja / Instagram\t\n\nI would never go so far as to say there's no place for AI in music (I'm a fan of Holly Herndon, after all). But I generally find music made with generative AI to be offensively boring, especially the outputs of Suno. So I'm having a bit of a tough time processing the fact that I actually quite enjoy 1010Benja's \"Semiramis' Dream.\"\nBenja has been unapologetic about his use of generative AI on his latest EP, Time Has Nothing To Do With What You Choose… The other three tracks can't quite hold a candle to what you find on 2024's Ten Total. But the opener \"Semiramis' Dream\" is infectious. It explodes out of the speakers with a jungle beat and Be …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
@@ -82,11 +88,5 @@
     "summary": "Google is giving its AI note-taking app a new name. The company announced on Thursday that NotebookLM is becoming Gemini Notebook, but will remain a standalone app even as it integrates more deeply across Gemini and Google Search.\nGoogle first revealed Gemini Notebook - then called Project Tailwind - in May 2023 before widely releasing the app just months later. Over the past few years, Google has been adding new features to the app to help organize and make sense of your notes, such as the ability to summarize them as AI podcasts, narrated slideshows, and TikTok-style clips. It recently started letting users connect their notebooks to the  …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
     "date": "2026-07-16T16:00:00.000Z"
-  },
-  {
-    "title": "Claude can now use your 1Password credentials for you",
-    "summary": "1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords. The 1Password for Claude feature means that users can authorize Claude to complete multi-step tasks like booking travel and managing online accounts on their behalf without having to manually input their login credentials, but without actually exposing security information to Anthropic's AI models, according to 1Password.\nThat's made possible by a new \"zero-exposure security framework\" developed by 1Password, which works by injecting the required credentials for each task through a …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
-    "date": "2026-07-16T13:00:00.000Z"
   }
 ]
