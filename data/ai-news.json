@@ -1,5 +1,17 @@
 [
   {
+    "title": "Roland is getting into generative AI music with Melody Flip",
+    "summary": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW), Melody Flip offers around 250 \"Palettes,\" which are essentially themed collections of musical ideas sorted by genre. You can start from scratch and ask it to generate any combination of melody, chord progression, bassline, or drums. Or you can feed it a reference track and have it build off the melodic ideas from that.\nUnlike Suno or Udio, Melody Flip doesn't spit out fully polished songs with vocals and full arrangements. Instead, it offers …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+    "date": "2026-09-04T17:51:35.000Z"
+  },
+  {
+    "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
+    "summary": "Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new legal filings as it fights copyright claims from publishers including The New York Times and book authors.\nAs part of the lawsuit's discovery, Microsoft provided 8.2 million Copilot chat logs to an expert hired by news publishers. The logs, it claims, were specifically chosen \"because they hit on keywords implicating use of News Plaintiffs' websites, and therefore the most likely to contain News Plaintiffs' works.\" It says the resulting analysis shows that 59,545 …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
+    "date": "2026-09-04T16:05:57.000Z"
+  },
+  {
     "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
     "summary": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepared to launch its most advanced model yet, Astra. The finding adds to intensifying concern surrounding oversight at frontier AI labs after multiple breaches were discovered this summer. \nThe incident, first reported by Reuters, is outlined in new research published by four AI safety researchers on Friday. The group said the AI agents found a way to communicate on an obscure German-language wiki, DseWiki, using it to share tips …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
@@ -64,18 +76,6 @@
     "summary": "Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with tools like Ollama and LM Studio. \nLet's get the obvious thing out of the way, despite what its name might imply: PAIR is not a hardware router. It's open-source software developed by Nvidia that discovers compatible PCs on a network, connects them, and prepares them for crunching numbers on agentic workflows. While the compatible devices are mostly Nvidia GeForce GPUs (PAIR works with RTX 20-series cards and newer, as well as RTX Pro GPUs and DGX Spark systems), Apple's M4 chips or newer will also  …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
     "date": "2026-09-03T16:00:00.000Z"
-  },
-  {
-    "title": "Google now lets you chat with Gmail, Docs, and Keep",
-    "summary": "Google is rolling out AI-powered voice assistant modes for Gmail, Docs, and Keep that allow you to manage the apps by talking to them. The real time conversational capabilities are called Gmail Live, Docs Live, and Keep Live, and like the Gemini Live experience for Google's chatbot, aim to make it easier to note down or find specific information when you're on the move or unable to do so manually.\nGmail Live is primarily designed to surface details from your inbox without you having to dig through lengthy email threads using keywords or subject lines. For example, Google says that you can ask questions like \"when is my kid's next school eve …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini",
-    "date": "2026-09-03T16:00:00.000Z"
-  },
-  {
-    "title": "ChatGPT, Grok, and Claude all went down at the same time",
-    "summary": "OpenAI's ChatGPT, xAI's Grok, and Anthropic's Claude are back online after they all began experiencing issues around the same time on Thursday. At about 11AM ET, ChatGPT started returning error messages for users trying to use the chatbot, with its status page saying there were \"elevated errors across ChatGPT and Codex.\"\nIn addition to preventing users from having conversations with ChatGPT, the outage affected logins, file uploads, voice mode, search, deep research, image generation, and more. The incident occurred while OpenAI teased the launch of Astra, its new AI model.\nMeanwhile, Anthropic's Claude chatbot, Claude Code, and the Claude …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down",
-    "date": "2026-09-03T15:35:14.000Z"
   },
   {
     "title": "The AI visibility gap: Why great brands disappear from AI answers",
