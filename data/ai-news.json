@@ -1,5 +1,11 @@
 [
   {
+    "title": "Worried Anthropic researchers warn that AI &#8216;could kill all humans&#8217;",
+    "summary": "A senior Anthropic safety researcher has said there is more than a 10 percent chance artificial intelligence \"could kill all humans\" by the end of the decade, just hours after a colleague resigned over fears the AI lab and its rivals are carelessly racing to build \"superhuman systems\" they cannot control. \nIn a post on X announcing his departure, Jacob Coxon, a researcher who has trained AI systems at Anthropic, said he had quit the company over its lax approach to safety. Coxon, who previously trained systems for OpenAI, accused the two AI companies of \"racing straight to self-improving superintelligence and gambling with our lives,\" even  …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
+    "date": "2026-09-09T09:56:28.000Z"
+  },
+  {
     "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
     "summary": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired. In a blog post on Tuesday, OpenAI announced that it discovered a solution to the Navier-Stokes problem - which relates to the flow of liquid and gas - using an internal AI model more powerful than the newly released GPT-6 Astra alongside 10,000 concurrent agents. The Navier-Stokes problem is one of seven Millennium Prize Problems, each of which comes with a $1 million reward for solving. \nOpenAI says it started training the internal AI model on August 28th, which has \"exhibited unpreced …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
@@ -52,12 +58,6 @@
     "summary": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW), Melody Flip offers around 250 \"Palettes,\" which are essentially themed collections of musical ideas sorted by genre. You can start from scratch and ask it to generate any combination of melody, chord progression, bassline, or drums. Or you can feed it a reference track and have it build off the melodic ideas from that.\nUnlike Suno or Udio, Melody Flip doesn't spit out fully polished songs with vocals and full arrangements. Instead, it offers …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
     "date": "2026-09-04T17:51:35.000Z"
-  },
-  {
-    "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
-    "summary": "Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new legal filings as it fights copyright claims from publishers including The New York Times and book authors.\nAs part of the lawsuit's discovery, Microsoft provided 8.2 million Copilot chat logs to an expert hired by news publishers. The logs, it claims, were specifically chosen \"because they hit on keywords implicating use of News Plaintiffs' websites, and therefore the most likely to contain News Plaintiffs' works.\" It says the resulting analysis shows that 59,545 …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
-    "date": "2026-09-04T16:05:57.000Z"
   },
   {
     "title": "'Welcome to the AGI era': OpenAI launches GPT-6 Astra",
