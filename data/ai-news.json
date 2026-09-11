@@ -1,5 +1,11 @@
 [
   {
+    "title": "Slack can now vibe-code interactive charts and reports inside chats",
+    "summary": "A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat. With Slackforce Surfaces, you can describe to Slackbot what you need, and it will use AI to gather information from relevant conversations and connected apps, like Google Drive or Salesforce, to create it.\nOnce Slackbot creates a Surface, you can share it with colleagues and pin it to channels, allowing other people to view it, interact with it, and leave comments. In one example shared by Slack, a user asks Slackbot for help creating an arcade-themed visualization of AI token usage …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
+    "date": "2026-09-10T21:25:21.000Z"
+  },
+  {
     "title": "Schools are catching on to Big Tech’s playbook",
     "summary": "It's the hot new thing in tech, and it's where all the jobs are. Students who don't learn to use it fall behind. And to help them catch up in time, its creators are graciously providing the resources and curriculum for learning it, often pro bono.\nThat's the narrative AI companies are pitching schools on right now, but according to New York Times education technology reporter Natasha Singer, it's also how the tech industry has built its influence in classrooms for the past 15 years.\nIn a new book, Coding Kids, Singer details how tech companies took a central role in promoting computers and coding skills in education, promising computer sci …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
@@ -52,12 +58,6 @@
     "summary": "Apple is launching a new way to prove that the picture you took isn't manipulated by AI. A new feature, called \"Reference Image,\" will arrive with the iPhone 18 Pro lineup later this month and is supposed to use the device's new camera sensor to \"sign every pixel it sees.\"\nThe iPhone 18 Pro and Pro Max will only authenticate photos when placed into Reference mode. Once the camera captures signed sensor data, Apple says its Private Cloud Compute will develop it \"into an unalterable reference image\" that can be viewed in the Photos app. You'll be able to compare the reference image with other versions of the photo to see if any edits were mad …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image",
     "date": "2026-09-09T19:30:12.000Z"
-  },
-  {
-    "title": "Microsoft has new AI privacy rules for schools",
-    "summary": "Microsoft agreed to a set of safety and privacy principles for AI in schools a week after two major school systems announced a ban on student-facing AI. \nIn a new agreement with the American Federation of Teachers (AFT), the second-largest teachers union in the US, and its New York City affiliate the United Federation of Teachers (UFT), Microsoft committed to ten principles that can be contractually enforced by school districts that adopt them. The terms include pledging not to train AI models on student or educator data, limiting the amount of data Microsoft collects in the first place and disclosing to families how its tools work in plain …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/policy/992359/microsoft-aft-schools-ai-privacy",
-    "date": "2026-09-09T17:07:48.000Z"
   },
   {
     "title": "'Welcome to the AGI era': OpenAI launches GPT-6 Astra",
