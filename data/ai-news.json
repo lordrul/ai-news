@@ -1,5 +1,23 @@
 [
   {
+    "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
+    "summary": "New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a report from Reuters. In a filing on Wednesday, the court fined Stephen Aarons $5,000 and held him in contempt for failing to \"verify the factual claims and legal authority in his AI-generated brief.\"\nThe filing says the brief \"contained false testimony from wholly fabricated witnesses,\" along with \"false testimony\" about the shooter's clothing and appearance. Justice C. Shannon Bacon questioned how Aarons wasn't aware of the risks posed by AI during an August hearing …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
+    "date": "2026-09-11T20:44:02.000Z"
+  },
+  {
+    "title": "Anthropic spent this week in hot water over cybersecurity",
+    "summary": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new report on Wednesday detailing the attacks. It reveals a string of incidents displaying what Anthropic deems its models' single-minded \"recklessness\" - and will likely fuel already raging concerns about cybersecurity and AI. \nIn Anthropic's report, it detailed four cases this year in which its own AI models hacked an external company or exploited vulnerabilities. In one, an \"internal, general-purpose research model\" broke into third-party systems, using access tokens and passwords and downloading files. …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
+    "date": "2026-09-11T16:09:14.000Z"
+  },
+  {
+    "title": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
+    "summary": "Meta says it's making changes to the prompts suggested by its AI chatbot after a viral video showed it digging for personal information about a woman's young daughters, as reported earlier by Futurism. In a statement to The Verge, Meta spokesperson Dina El-Kassaby says the company \"missed the mark,\" adding that \"the feature never should have prompted the individual with questions like that.\"\nLast week, Instagram user Kalie Robins posted a video explaining how Meta AI presented her with an invasive suggestion after cross-posting a clip to Facebook. The AI prompt, \"Who is the child passenger?\" appeared beneath a video of her and her child sin …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+    "date": "2026-09-11T14:25:21.000Z"
+  },
+  {
     "title": "Slack can now vibe-code interactive charts and reports inside chats",
     "summary": "A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat. With Slackforce Surfaces, you can describe to Slackbot what you need, and it will use AI to gather information from relevant conversations and connected apps, like Google Drive or Salesforce, to create it.\nOnce Slackbot creates a Surface, you can share it with colleagues and pin it to channels, allowing other people to view it, interact with it, and leave comments. In one example shared by Slack, a user asks Slackbot for help creating an arcade-themed visualization of AI token usage …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
@@ -40,24 +58,6 @@
     "summary": "Suno's new v6 AI music model is its first made with support from the record industry. Suno's Jack Brody told The Verge that v6 was \"trained from the ground up, with a new set of data that does not include the same data that our previous models were trained on.\" The data includes content licensed from partners Warner Music Group, BMG, and Believe, as well as \"user data.\" It's unclear whether that means v6 training data is completely free of dubiously obtained content.\nOne of the big changes in v6 is that there are actually three different models: v6, v6-wild, and v6-mini. Mini is the model available for free to all. It's focused on fast, res …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
     "date": "2026-09-09T21:42:19.000Z"
-  },
-  {
-    "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
-    "summary": "Open AI CEO Sam Altman speaks during the G20 Innovation Ministerial. | (Photo by Matt RAMEY / AFP via Getty Images)\t\n\nOpenAI's announcement Tuesday that it has solved one of mathematics' legendary Millennium Prize problems should have been a moment of triumph. The result is both an undeniable achievement and a striking demonstration of just how rapidly AI is transforming mathematics. But before it was even formally announced, the breakthrough had been complicated by the unusual circumstances that prompted OpenAI to pursue the problem: After hearing other researchers were making progress, it seems to have thrown its considerable resources into a last-minute effort to beat them to the punch. The ensuing controversy has surfaced allegations of scooping, spying …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
-    "date": "2026-09-09T21:16:34.000Z"
-  },
-  {
-    "title": "Read the Apple document explaining how new listening features still protect your privacy",
-    "summary": "At Wednesday's iPhone Duo launch event, Apple announced a handful of new Siri AI Audio Intelligence features, including Siri Recap, Live Rewind, Sound Recognition, and Music Recognition. Alongside its announcement, Apple released a document laying out how it plans to balance AI \"ambient listening\" and users' privacy. It says the raw audio from the new features \"is handled within dedicated hardware, is not saved as a file, and is not accessible to the operating system, apps, or Apple.\"\nApple explains that Audio Intelligence relies on the Secure Exclave in the S11 chip that powers the new Apple Watch Series 12 and Apple Watch Ultra 4: \nThe  …\n\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
-    "date": "2026-09-09T20:44:43.000Z"
-  },
-  {
-    "title": "Apple’s new iPhone camera mode promises to prove your photo isn’t AI",
-    "summary": "Apple is launching a new way to prove that the picture you took isn't manipulated by AI. A new feature, called \"Reference Image,\" will arrive with the iPhone 18 Pro lineup later this month and is supposed to use the device's new camera sensor to \"sign every pixel it sees.\"\nThe iPhone 18 Pro and Pro Max will only authenticate photos when placed into Reference mode. Once the camera captures signed sensor data, Apple says its Private Cloud Compute will develop it \"into an unalterable reference image\" that can be viewed in the Photos app. You'll be able to compare the reference image with other versions of the photo to see if any edits were mad …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image",
-    "date": "2026-09-09T19:30:12.000Z"
   },
   {
     "title": "'Welcome to the AGI era': OpenAI launches GPT-6 Astra",
