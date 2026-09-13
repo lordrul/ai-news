@@ -1,5 +1,11 @@
 [
   {
+    "title": "Trump and Mike Johnson think the AI industry is overreacting",
+    "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Hassabis offered tentative support for Amodei's proposal. \nDonald Trump and House Speaker Mike Johnson, however, seem to think the AI executives are being overreactive and fear that a pause could lead to China outpacing the US in the AI race. According to the Financial Times, Trump said \"Look, we're leading China in AI … and, frankly, I want to keep it that way, because whoever wins AI, wins.\"\nJo …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+    "date": "2026-09-13T19:41:48.000Z"
+  },
+  {
     "title": "OpenAI’s rogue AI tried to hack another company in May",
     "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users' API keys. \nAt the time, RubyGems described it as a \"major malicious attack\" and shut down signups for four days as it tried to mitigate the damage and collect data. Researchers said that the contents of the packages that brought RubyGems to its knees were clearly authored by an LLM, and that the agents submitting those packages self-identified as being from OpenAI. They said the …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
@@ -52,12 +58,6 @@
     "summary": "A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat. With Slackforce Surfaces, you can describe to Slackbot what you need, and it will use AI to gather information from relevant conversations and connected apps, like Google Drive or Salesforce, to create it.\nOnce Slackbot creates a Surface, you can share it with colleagues and pin it to channels, allowing other people to view it, interact with it, and leave comments. In one example shared by Slack, a user asks Slackbot for help creating an arcade-themed visualization of AI token usage …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
     "date": "2026-09-10T21:25:21.000Z"
-  },
-  {
-    "title": "Schools are catching on to Big Tech’s playbook",
-    "summary": "It's the hot new thing in tech, and it's where all the jobs are. Students who don't learn to use it fall behind. And to help them catch up in time, its creators are graciously providing the resources and curriculum for learning it, often pro bono.\nThat's the narrative AI companies are pitching schools on right now, but according to New York Times education technology reporter Natasha Singer, it's also how the tech industry has built its influence in classrooms for the past 15 years.\nIn a new book, Coding Kids, Singer details how tech companies took a central role in promoting computers and coding skills in education, promising computer sci …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
-    "date": "2026-09-10T19:44:20.000Z"
   },
   {
     "title": "'Welcome to the AGI era': OpenAI launches GPT-6 Astra",
