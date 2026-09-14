@@ -1,5 +1,23 @@
 [
   {
+    "title": "What execs and politicians are saying about slowing down AI development",
+    "summary": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why AI development should be slowed down. Other AI leaders and politicians are speaking out in favor of or opposing his points, and we've compiled some of them here.\nAnthropic CEO Dario Amodei\nAmodei's Saturday morning essay outlined three steps for pacing AI development: embedded third-party evaluators that can verify if a company is adhering to safety practices and commitments and report incidents, coordination between frontier AI companies in democratic countries on standards and li …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
+    "date": "2026-09-14T21:21:42.000Z"
+  },
+  {
+    "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
+    "summary": "NVIDIA CEO Jensen Huang speaks during the G20 Innovation Ministerial in Chapel Hill, North Carolina, on September 2, 2026. (Photo by Matt RAMEY / AFP via Getty Images) | AFP via Getty Images\t\n\nNvidia CEO Jensen Huang took a call from President Trump on Monday while onstage at the All-In Podcast's All-In Summit. It's not the first time Huang has taken a call from the president during work, but this time he put Trump on speakerphone before a big crowd. \nDuring the call, the president launched into his take on recent fears about AI development, which he called a \"hoax,\" and told the crowd that \"the robots will not be taking over.\" \nIt's already a frothy week for AI news. The call with the president followed Anthropic CEO Dario Amodei's long essay published this weekend titled \"We Must Pace the Frontier\" where he argued for slowing  …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
+    "date": "2026-09-14T20:03:37.000Z"
+  },
+  {
+    "title": "Microsoft says ‘people matter more than AI’ following safety concerns",
+    "summary": "Microsoft is publishing a 37-page \"humanist AI code of conduct\" today, amid growing safety concerns over AI model progress. Anthropic CEO Dario Amodei called for a coordinated slow down of AI development over the weekend, after researchers warned recently that AI model progress could outpace our ability to safely deploy increasingly complex systems and verify and control the actions of AI agents.\nMicrosoft's AI code of conduct makes it clear that \"people matter more than AI,\" and that AI models are not conscious and \"should not be designed to imitate consciousness.\" Microsoft also rejects \"the pursuit of legal personhood, or the idea that m …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
+    "date": "2026-09-14T13:00:00.000Z"
+  },
+  {
     "title": "Trump and Mike Johnson think the AI industry is overreacting",
     "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Hassabis offered tentative support for Amodei's proposal. \nDonald Trump and House Speaker Mike Johnson, however, seem to think the AI executives are being overreactive and fear that a pause could lead to China outpacing the US in the AI race. According to the Financial Times, Trump said \"Look, we're leading China in AI … and, frankly, I want to keep it that way, because whoever wins AI, wins.\"\nJo …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
@@ -40,24 +58,6 @@
     "summary": "New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a report from Reuters. In a filing on Wednesday, the court fined Stephen Aarons $5,000 and held him in contempt for failing to \"verify the factual claims and legal authority in his AI-generated brief.\"\nThe filing says the brief \"contained false testimony from wholly fabricated witnesses,\" along with \"false testimony\" about the shooter's clothing and appearance. Justice C. Shannon Bacon questioned how Aarons wasn't aware of the risks posed by AI during an August hearing …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
     "date": "2026-09-11T20:44:02.000Z"
-  },
-  {
-    "title": "Anthropic spent this week in hot water over cybersecurity",
-    "summary": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new report on Wednesday detailing the attacks. It reveals a string of incidents displaying what Anthropic deems its models' single-minded \"recklessness\" - and will likely fuel already raging concerns about cybersecurity and AI. \nIn Anthropic's report, it detailed four cases this year in which its own AI models hacked an external company or exploited vulnerabilities. In one, an \"internal, general-purpose research model\" broke into third-party systems, using access tokens and passwords and downloading files. …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
-    "date": "2026-09-11T16:09:14.000Z"
-  },
-  {
-    "title": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
-    "summary": "Meta says it's making changes to the prompts suggested by its AI chatbot after a viral video showed it digging for personal information about a woman's young daughters, as reported earlier by Futurism. In a statement to The Verge, Meta spokesperson Dina El-Kassaby says the company \"missed the mark,\" adding that \"the feature never should have prompted the individual with questions like that.\"\nLast week, Instagram user Kalie Robins posted a video explaining how Meta AI presented her with an invasive suggestion after cross-posting a clip to Facebook. The AI prompt, \"Who is the child passenger?\" appeared beneath a video of her and her child sin …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
-    "date": "2026-09-11T14:25:21.000Z"
-  },
-  {
-    "title": "Slack can now vibe-code interactive charts and reports inside chats",
-    "summary": "A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat. With Slackforce Surfaces, you can describe to Slackbot what you need, and it will use AI to gather information from relevant conversations and connected apps, like Google Drive or Salesforce, to create it.\nOnce Slackbot creates a Surface, you can share it with colleagues and pin it to channels, allowing other people to view it, interact with it, and leave comments. In one example shared by Slack, a user asks Slackbot for help creating an arcade-themed visualization of AI token usage …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
-    "date": "2026-09-10T21:25:21.000Z"
   },
   {
     "title": "'Welcome to the AGI era': OpenAI launches GPT-6 Astra",
