@@ -1,5 +1,35 @@
 [
   {
+    "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
+    "summary": "Christopher Nolan's engrossing take on The Odyssey dominated at the box office and spurred a newfound interest in classic literature among filmgoers. But a new retelling of the story made entirely with AI is so bad that it might just make viewers hate the original tale altogether.\nThe new film, called Odysseus: The Fall, comes via AI firm Fountain 0 and is written and directed by company cofounder Ash Koosha, who also lent his likeness to the title character and created all of the music. (The film's credits are very short.) The studio's only previous work is an AI film called Dreams of Violets that made it into Tribeca earlier this year. Th …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
+    "date": "2026-09-16T20:59:13.000Z"
+  },
+  {
+    "title": "The AI data center e-waste problem is huge — and getting bigger",
+    "summary": "E-waste from the AI boom has been vastly underestimated, a new report warns. By 2050, it could become enough trash to fill 23 million shipping containers - roughly enough 40-foot containers to circle the world six times if lined up in a row. \nIt's a significantly higher estimate of AI's e-waste than previous studies have found because the authors of the new report factor in all the infrastructure needed to support servers in data centers. The broader scope provides a clearer picture of junk AI leaves behind, according to the nonprofit Basel Action Network (BAN), which published the paper today. \n\"AI may feel weightless, but every model dep …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
+    "date": "2026-09-16T20:40:46.000Z"
+  },
+  {
+    "title": "Apple might make servers again to cash in on the AI rush",
+    "summary": "According to The Information, Apple is planning to get back into the server game and might just pair up with Nvidia to make it happen. Apple retired its Xserve line in 2011 and has largely left enterprise machines to other manufacturers since. But the growing demand for compute power as the AI industry continues to expand has apparently led the company to believe there is an opening for its powerful but efficient ARM-based M processors. Its Mac Mini and Mac Studio have proven popular with AI developers, which has led to shortages.\nThe server product, whether it's called Xserve or something else, likely won't debut until 2029. Word is that i …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
+    "date": "2026-09-16T17:20:29.000Z"
+  },
+  {
+    "title": "Google will now let any AI agent run your smart home",
+    "summary": "Google is inviting third-party agents, including Claude and Open Claw, into Google Home. | Photo by Jennifer Pattison Tuohy / The Verge\t\n\nGoogle is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze your home's data using the standardized Model Context Protocol. \nGoogle Home MCP is a new integration that lets third-party AI agents control and monitor your smart home and act on your behalf. It \"allows any AI agents that support MCP, including Google Antigravity, Claude, Hermes or Open Claw, to securely work with all of the devices and event history in your Google Home ecosystem,\" Taylor Lehman, group product manager at Google Home & Nest, said in a blog post.\nAccording to Lehman, Home MCP integ …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
+    "date": "2026-09-16T17:00:00.000Z"
+  },
+  {
+    "title": "Claude comes for Gemini with its own take on Docs and Slides",
+    "summary": "Claude is getting a pair of new tools today: Docs and Slides. They'll let you create documents and presentations through Claude chats, which you can export, edit, and share with other users.\nAs part of the announcement, Anthropic is also simplifying how Claude chats work, merging regular chats and Cowork into \"one Claude,\" with all of its AI productivity tools available from any chat. Artifacts and Claude Design capabilities will be available through the new single interface as well. According to Anthropic, Claude \"can now figure out what a task needs, so what Cowork and Design can do is available from any conversation, with the context, sk …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
+    "date": "2026-09-16T16:30:00.000Z"
+  },
+  {
     "title": "The sexy AI-powered dating app scams are here",
     "summary": "Security researcher Matthew \"Zigula\" Gore-Kormanik was analyzing a fraudulent dating app called Dora when he got a pop-up message saying he was receiving a call from Jennifer. According to her bio, she's a 41-year-old Sagittarius with red hair, blue eyes, and piercings. She likes music, horror movies, nightlife, and sports.\nGore-Kormanik answered the call, but didn't see Jennifer in his video feed. He saw a tapestry that was moving, probably due to a fan, and heard weird distortion in the background. After the call ended, \"Jennifer\" messaged him to say she'd had fun and \"your voice is way better than expected.\" His microphone hadn't even be …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams",
@@ -28,36 +58,6 @@
     "summary": "The new SimpliSafe Video Doorbell Series 2 adds 2K resolution and dual band Wi-Fi. | Image: Simplisafe\t\n\nDIY home security company SimpliSafe is bringing its AI-powered proactive security feature to the front door. The new SimpliSafe Video Doorbell Series 2 launches today for $199.99 and works with the company's Active Guard Outdoor Protection (starting at $49.99 a month). This combines AI analysis with live agents to detect potential threats and respond proactively.\nWhen the camera detects suspicious activity - using a combination of on-device AI, cloud-based computer vision, and facial recognition - a SimpliSafe monitoring agent can drop in on the camera to \"see, speak to, and attempt to deter potential intruders and package thieves,\" accord …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
     "date": "2026-09-15T13:36:45.000Z"
-  },
-  {
-    "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
-    "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The AI titans had declared that their aim was to \"pace the frontier,\" signing on at least partially to a proposal for embedding third-party auditors, regulating domestic labs, and reaching a global slowdown agreement. Their critics, however, argued they simply wanted to stop would-be competitors, kneecap the open-source movement, and avoid real legal safeguards - some dubbed it an outright \"cartel.\" \nThe truth  …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
-    "date": "2026-09-14T22:59:41.000Z"
-  },
-  {
-    "title": "What execs and politicians are saying about slowing down AI development",
-    "summary": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why AI development should be slowed down. Other AI leaders and politicians are speaking out in favor of or opposing his points, and we've compiled some of them here.\nAnthropic CEO Dario Amodei\nAmodei's Saturday morning essay outlined three steps for pacing AI development: embedded third-party evaluators that can verify if a company is adhering to safety practices and commitments and report incidents, coordination between frontier AI companies in democratic countries on standards and li …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
-    "date": "2026-09-14T21:21:42.000Z"
-  },
-  {
-    "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
-    "summary": "NVIDIA CEO Jensen Huang speaks during the G20 Innovation Ministerial in Chapel Hill, North Carolina, on September 2, 2026. (Photo by Matt RAMEY / AFP via Getty Images) | AFP via Getty Images\t\n\nNvidia CEO Jensen Huang took a call from President Trump on Monday while onstage at the All-In Podcast's All-In Summit. It's not the first time Huang has taken a call from the president during work, but this time he put Trump on speakerphone before a big crowd. \nDuring the call, the president launched into his take on recent fears about AI development, which he called a \"hoax,\" and told the crowd that \"the robots will not be taking over.\" \nIt's already a frothy week for AI news. The call with the president followed Anthropic CEO Dario Amodei's long essay published this weekend titled \"We Must Pace the Frontier\" where he argued for slowing  …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
-    "date": "2026-09-14T20:03:37.000Z"
-  },
-  {
-    "title": "Microsoft says ‘people matter more than AI’ following safety concerns",
-    "summary": "Microsoft is publishing a 37-page \"humanist AI code of conduct\" today, amid growing safety concerns over AI model progress. Anthropic CEO Dario Amodei called for a coordinated slow down of AI development over the weekend, after researchers warned recently that AI model progress could outpace our ability to safely deploy increasingly complex systems and verify and control the actions of AI agents.\nMicrosoft's AI code of conduct makes it clear that \"people matter more than AI,\" and that AI models are not conscious and \"should not be designed to imitate consciousness.\" Microsoft also rejects \"the pursuit of legal personhood, or the idea that m …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
-    "date": "2026-09-14T13:00:00.000Z"
-  },
-  {
-    "title": "Trump and Mike Johnson think the AI industry is overreacting",
-    "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Hassabis offered tentative support for Amodei's proposal. \nDonald Trump and House Speaker Mike Johnson, however, seem to think the AI executives are being overreactive and fear that a pause could lead to China outpacing the US in the AI race. According to the Financial Times, Trump said \"Look, we're leading China in AI … and, frankly, I want to keep it that way, because whoever wins AI, wins.\"\nJo …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
-    "date": "2026-09-13T19:41:48.000Z"
   },
   {
     "title": "'Welcome to the AGI era': OpenAI launches GPT-6 Astra",
