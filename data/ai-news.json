@@ -1,5 +1,17 @@
 [
   {
+    "title": "Security researchers used Claude to help them hack into OpenAI",
+    "summary": "A team of three independent security researchers at Hacktron says it took less than 72 hours for them to hack into OpenAI employee accounts using Anthropic's Claude Opus 4.8 and 5, the Wall Street Journal reports. They were able to access OpenAI's GitHub repository, called \"Monorepo,\" which reportedly contains \"OpenAI's algorithmic secrets,\" according to the Wall Street Journal's sources. \nThey stopped short of accessing internal code in Monorepo themselves, but sent a pull request from an employee's Codex account to prove they gained access. They were able to get in through Discourse, the third-party service that hosts OpenAI's community f …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
+    "date": "2026-09-18T15:30:16.000Z"
+  },
+  {
+    "title": "Flash floods can strike without warning — this new technology could change that",
+    "summary": "On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border. She was on a Zoom call, unaware that the heavy rain outside was beginning to flood her yard. \n\"I look over to where the barn is over there, and I see pieces of my wood floating, and I was like, 'What?' And I immediately was like, 'I have to go.' Close my laptop, and I get my kids up, and I'm like, 'Something's wrong,'\" Lin recalls.\nLin and her family got out safely and sheltered at a neighbor's house, but Lanesville got over 8 inches of rain within just a few hours that day, way over the thre …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
+    "date": "2026-09-18T11:00:00.000Z"
+  },
+  {
     "title": "The AI Superintelligence Slowdown",
     "summary": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all, a number of leading US AI companies are publicly suggesting it’s time to pump the brakes and “pace the frontier” of bleeding-edge AI development.\nTheir motivations are suspect, but leaders at major AI companies — including Anthropic, OpenAI, Google, Microsoft, and X — are at least paying lip service to the idea of a superintelligence slowdown.\nWill these AI companies actually slow down? Will anyone step in to regulate these companies like they claim to have wanted for years? Will they manage to convince world leaders that the US must “beat China” to superintelligence and go even faster?\nRead on below for the latest updates in this AI saga.\nAnthropic proposes three rules for measuring AI progress.\n\t\t\t\nKing Charles says AI needs “sufficient means of control before it is all too late.”\n\t\t\t\nMicrosoft AI CEO says AI threats are real, and Anthropic is making it worse\n\t\t\t\nOpenAI reveals six more “concerning” AI incidents under its new rules for reporting safety issues.\n\t\t\t\nJensen Huang sure is getting cozy with Trump.\n\t\t\t\nA brief history of AI executives calling for regulation\n\t\t\t\nTwo Google Deepmind researchers lend voices to the AI apocalypse.\n\t\t\t\nGuy getting super rich off unfettered AI development says it doesn’t need regulation.\n\t\t\t\nZuck doesn’t want to press pause on AI.\n\t\t\t\nBarack Obama takes the middle way on AI.\n\t\t\t\nIs Big Tech’s AI slowdown a safety pact or a cartel?\n\t\t\t\nWhat execs and politicians are saying about slowing down AI development\n\t\t\t\nMicrosoft says ‘people matter more than AI’ following safety concerns\n\t\t\t\nChina: AI CEOs are “fear mongering.”\n\t\t\t\nSam Altman: Let’s slow down.\n\t\t\t\nIs it time for AI companies to press pause?\n\t\t\t\nSam Altman says OpenAI going public in 2026 would be ‘ill-advised’\n\t\t\t\nAnthropic CEO says it’s time to pump the brakes on AI",
     "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
@@ -46,18 +58,6 @@
     "summary": "E-waste from the AI boom has been vastly underestimated, a new report warns. By 2050, it could become enough trash to fill 23 million shipping containers - roughly enough 40-foot containers to circle the world six times if lined up in a row. \nIt's a significantly higher estimate of AI's e-waste than previous studies have found because the authors of the new report factor in all the infrastructure needed to support servers in data centers. The broader scope provides a clearer picture of junk AI leaves behind, according to the nonprofit Basel Action Network (BAN), which published the paper today. \n\"AI may feel weightless, but every model dep …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
     "date": "2026-09-16T20:40:46.000Z"
-  },
-  {
-    "title": "Apple might make servers again to cash in on the AI rush",
-    "summary": "According to The Information, Apple is planning to get back into the server game and might just pair up with Nvidia to make it happen. Apple retired its Xserve line in 2011 and has largely left enterprise machines to other manufacturers since. But the growing demand for compute power as the AI industry continues to expand has apparently led the company to believe there is an opening for its powerful but efficient ARM-based M processors. Its Mac Mini and Mac Studio have proven popular with AI developers, which has led to shortages.\nThe server product, whether it's called Xserve or something else, likely won't debut until 2029. Word is that i …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
-    "date": "2026-09-16T17:20:29.000Z"
-  },
-  {
-    "title": "Google will now let any AI agent run your smart home",
-    "summary": "Google is inviting third-party agents, including Claude and Open Claw, into Google Home. | Photo by Jennifer Pattison Tuohy / The Verge\t\n\nGoogle is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze your home's data using the standardized Model Context Protocol. \nGoogle Home MCP is a new integration that lets third-party AI agents control and monitor your smart home and act on your behalf. It \"allows any AI agents that support MCP, including Google Antigravity, Claude, Hermes or Open Claw, to securely work with all of the devices and event history in your Google Home ecosystem,\" Taylor Lehman, group product manager at Google Home & Nest, said in a blog post.\nAccording to Lehman, Home MCP integ …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
-    "date": "2026-09-16T17:00:00.000Z"
   },
   {
     "title": "'Welcome to the AGI era': OpenAI launches GPT-6 Astra",
