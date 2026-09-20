@@ -1,5 +1,11 @@
 [
   {
+    "title": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+    "summary": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades. In an interview with CBS Sunday Morning, he claimed there was a \"0% chance\" of AI being the end of the world. He also said of people sounding the alarm about the dangers of AI that, \"Scaring people is unnecessary. It is irresponsible.\"\nHe also claims that calls from CEOs like Anthropic's Dario Amodei and OpenAI's Sam Altman to slow down the development of AI are \"not grounded in science.\" He even argued that there was no need for new rules, laws, or guidelines, in …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+    "date": "2026-09-20T18:50:18.000Z"
+  },
+  {
     "title": "Trump now says he wants to form an ‘AI Force’",
     "summary": "The president posted on Truth Social that he wanted to appoint an \"AI czar\" to lead a new \"AI force.\" He made the announcement amid growing calls from across the political spectrum and even within the industry to pump the brakes on AI development. He posted that his administration \"will not in any way hinder or stifle the Growth of this incredible Industry. Rather, we will cherish it, help it, and watch over it, as it grows!\"\nIn the rambling post, Trump said that data centers were \"wealthy and prestigious\" and claimed without evidence that they raised salaries, lowered taxes, and made for safer streets in the communities in which they were  …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
@@ -52,12 +58,6 @@
     "summary": "California Gov. Gavin Newsom (D) is positioning the state to take the lead on AI oversight, including the potential to mandate a \"kill switch\" for frontier models, with a new executive order issued Friday. \nNewsom's order directs the state to convene a group of experts that will deliver recommendations within two months on how to strengthen AI safety measures in state law. Newsom wants the group to consider how the state could require AI companies to embed independent verification groups onsite for regular audits, make their transparency reports and risk assessments subject to standards of independent auditors, create a \"kill switch\" that's …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
     "date": "2026-09-18T17:04:51.000Z"
-  },
-  {
-    "title": "What Hollywood thinks about existential AI warnings",
-    "summary": "As the tech sector sounds alarms about AI's potential to destroy humanity, entertainment labor groups are urging the public to stay focused on what's already happening. The Verge reached out to Disney, Netflix, Amazon, Lionsgate, and other studios who have started using AI, as well film startups focused on bringing generative AI into the mainstream to ask for their reaction to the recent warnings surrounding the technology. None have responded to our request for comment. The Screen Actors Guild - American Federation of Television and Radio Artists (SAG-AFTRA) and Writers Guild of America East (WGAE) did, however.\nThe AI tools used in entert …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
-    "date": "2026-09-18T16:35:19.000Z"
   },
   {
     "title": "'Welcome to the AGI era': OpenAI launches GPT-6 Astra",
