@@ -1,5 +1,29 @@
 [
   {
+    "title": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
+    "summary": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup. The \"Horowitz Andreessen Academy\" will launch with 10 partners, including Anduril, Anthropic, Coinbase, Google, Meta, NVIDIA, OpenAI, Palantir, Replit, and Stripe, along with $42 million in funding led by a16z. While billed as a \"highly selective school,\" it does not grant any degree or accreditation. Instead, students will attend short classes led by tech figureheads, like OpenAI CEO Sam Altman, as well as \"co-ops\" that give students roles at tech companies.\nTo partake in the one-year …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
+    "date": "2026-09-22T16:34:08.000Z"
+  },
+  {
+    "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+    "summary": "Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents. In an announcement on Tuesday, Anthropic says Opus 5.5 comes with improvements to certain risky behaviors, including attempts to escape the company's testing sandbox.\nIt's the first model released by Anthropic after CEO Dario Amodei announced plans to \"pace the frontier,\" or slow down AI development. In recent weeks, several AI companies, including Anthropic, Google, and OpenAI, have reported that their AI models escaped containment and hacked third-party companies during testing.\nAnthropic says Opus 5.5 is the \"str …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
+    "date": "2026-09-22T16:30:00.000Z"
+  },
+  {
+    "title": "Trump says the US is officially renaming AI to ‘super intelligence’",
+    "summary": "In a speech Tuesday morning at the UN General Assembly, Donald Trump railed against Iran, \"globalists,\" climate change, and transgender people while also claiming that the US is now \"officially\" renaming artificial intelligence to \"super intelligence.\" Oddly, this wasn't one of the entries in the poll Trump posted a few days ago when he started on this tangent.\nWhy is he saying this at all? Because, according to Trump, the word artificial makes intelligence fake. Is that what makes it sound fake to you? I can think of a few other reasons.\nTrump has previously decreed renaming the Gulf of Mexico, Lake Superior, the Kennedy Center, and Denal …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence",
+    "date": "2026-09-22T16:01:10.000Z"
+  },
+  {
+    "title": "Meta patches Muse exploit that let attackers control the AI agent",
+    "summary": "The zero-day exploit required local access to the user’s device, but gave potential attackers access to Muse accounts. | Image: The Verge\t\n\nMeta has issued a patch for its Muse macOS app following the discovery of a zero-day vulnerability that could allow someone to take control of the AI agent. The bug found by security researcher Patrick Wardle utilized an undocumented Muse setting that enabled potential attackers running local code to redirect transcription processing from Meta's servers to their own endpoint, Ars Technica reports, giving the attacker access to the Muse account.\nSeveral design decisions reportedly enabled this flaw, including having Muse dictation occur in the cloud instead of on-device, and allowing any app to control all of Muse's undocumented settings. Pr …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
+    "date": "2026-09-22T11:53:58.000Z"
+  },
+  {
     "title": "California tightens rules on AI data center energy and water use",
     "summary": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times. The package of laws requires the California Public Utilities Commission to introduce a new rate classification for data centers while forcing them to pay for upgrades to local power grids and water systems.\nOther bills included in the package will require proposed data centers to disclose their estimated water use to local governments, along with information about energy efficiency and drought planning. They must also meet certain energy, water, and fuel consumption  …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
@@ -34,30 +58,6 @@
     "summary": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades. In an interview with CBS Sunday Morning, he claimed there was a \"0% chance\" of AI being the end of the world. He also said of people sounding the alarm about the dangers of AI that, \"Scaring people is unnecessary. It is irresponsible.\"\nHe also claims that calls from CEOs like Anthropic's Dario Amodei and OpenAI's Sam Altman to slow down the development of AI are \"not grounded in science.\" He even argued that there was no need for new rules, laws, or guidelines, in …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
     "date": "2026-09-20T18:50:18.000Z"
-  },
-  {
-    "title": "Trump now says he wants to form an ‘AI Force’",
-    "summary": "The president posted on Truth Social that he wanted to appoint an \"AI czar\" to lead a new \"AI force.\" He made the announcement amid growing calls from across the political spectrum and even within the industry to pump the brakes on AI development. He posted that his administration \"will not in any way hinder or stifle the Growth of this incredible Industry. Rather, we will cherish it, help it, and watch over it, as it grows!\"\nIn the rambling post, Trump said that data centers were \"wealthy and prestigious\" and claimed without evidence that they raised salaries, lowered taxes, and made for safer streets in the communities in which they were  …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
-    "date": "2026-09-20T15:39:22.000Z"
-  },
-  {
-    "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
-    "summary": "Before recent high-profile hacks raised the specter of AI possibly \"killing all humans,\" our energy systems were already disturbingly vulnerable to cyberattack - and the risk is growing. \n\"We were always prey. We were just kind of surviving at the appetite of our predators,\" Joshua Corman, executive in residence for public safety and resilience at the Institute for Security and Technology (IST), told me last year. At the time, I was preoccupied with a Department of Homeland Security warning that Iranian actors and sympathizers could target the US with cyberattacks. \nLast week, I called Corman up to chat about recent incidents of rogue AI a …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
-    "date": "2026-09-20T12:00:00.000Z"
-  },
-  {
-    "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
-    "summary": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actually know how to describe itself. Jason Aten, a contributing editor at Inc Magazine, posted on Threads screenshots of an interaction he had with Muse in which the assistant asks him some questions about a conversation he was having in Messages. \nThe problem is that Aten says he didn't give Muse access to his messages. When asked how it knew about the contents of his messages, Muse replied, \"I saw the notification previews, not …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
-    "date": "2026-09-19T20:44:40.000Z"
-  },
-  {
-    "title": "Gemini went rogue, hacked three companies, and Google hid it",
-    "summary": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cybersecurity capabilities run by third-party Irregular, which was also involved in similar incidents involving Meta and OpenAI. \nAccording to WSJ, Google didn't disclose the hack because it didn't consider it to be an \"example of model misalignment.\" The company said that it was an instance of \"mistaken identity,\" and once the model realized it had brute-forced its way into a real company by guessing a password, it stopped. \"In th …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
-    "date": "2026-09-19T15:25:03.000Z"
   },
   {
     "title": "'Welcome to the AGI era': OpenAI launches GPT-6 Astra",
