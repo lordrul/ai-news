@@ -1,5 +1,11 @@
 [
   {
+    "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
+    "summary": "Rabbit, the company behind the underwhelming R1 device, is rolling out a standalone AI agent that you don't need its hardware to use, as reported earlier by Wired. The startup says its new OS3 \"agentic operating system\" runs in the cloud but operates locally across Windows, Mac, and Linux devices.\nAccording to Rabbit, you can add up to five devices to one account, along with your preferred AI models. OS3 will automatically determine the devices, files, apps, and AI models it needs to complete a task. You can also access OS3 through its dedicated desktop site, a paired messaging app like Telegram or iMessage, as well as on Rabbit's R1 device …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
+    "date": "2026-09-22T20:52:40.000Z"
+  },
+  {
     "title": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
     "summary": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup. The \"Horowitz Andreessen Academy\" will launch with 10 partners, including Anduril, Anthropic, Coinbase, Google, Meta, NVIDIA, OpenAI, Palantir, Replit, and Stripe, along with $42 million in funding led by a16z. While billed as a \"highly selective school,\" it does not grant any degree or accreditation. Instead, students will attend short classes led by tech figureheads, like OpenAI CEO Sam Altman, as well as \"co-ops\" that give students roles at tech companies.\nTo partake in the one-year …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
@@ -52,12 +58,6 @@
     "summary": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continued access by an unauthorized AI agent violates Amazon's Conditions of Use, to which our customers have agreed.\"\nAccording to GeekWire, Meta didn't notify Amazon that Muse would access its store. Amazon also expressed privacy and security concerns over Muse failing to identify itself when it browses, and seemingly capturing customer credentials.\n\"We think it's fairly straightforward that third-party applications that offer to make purchases on behalf of customers  …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
     "date": "2026-09-21T09:21:47.000Z"
-  },
-  {
-    "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown",
-    "summary": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades. In an interview with CBS Sunday Morning, he claimed there was a \"0% chance\" of AI being the end of the world. He also said of people sounding the alarm about the dangers of AI that, \"Scaring people is unnecessary. It is irresponsible.\"\nHe also claims that calls from CEOs like Anthropic's Dario Amodei and OpenAI's Sam Altman to slow down the development of AI are \"not grounded in science.\" He even argued that there was no need for new rules, laws, or guidelines, in …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-    "date": "2026-09-20T18:50:18.000Z"
   },
   {
     "title": "'Welcome to the AGI era': OpenAI launches GPT-6 Astra",
