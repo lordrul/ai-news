@@ -1,5 +1,11 @@
 [
   {
+    "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
+    "summary": "World Labs co-founder and CEO Fei-Fei Li. | Bloomberg via Getty Images\t\n\nAMD announced today that it's acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr. Fei-Fei Li, in an all-stock deal worth approximately $8.2 billion. World Labs launched in 2024 and was valued at $1 billion in a matter of months. The startup launched its first commercial product, a world generation model called Marble that lets users make interactive 3D worlds from a prompt, in 2025.\nThe deal is expected to close by the end of the year. Li will become EVP and chief scientist at AMD, reporting to AMD CEO Lisa Su, while the World Labs team will \"continue to focus on advancing AI model research.\" AMD also notes t …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
+    "date": "2026-09-28T21:31:35.000Z"
+  },
+  {
     "title": "OpenAI’s AI agents need to catch up",
     "summary": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents. On Tuesday, it will likely try to capture the lead in that race. Rumors abound that OpenAI will release its own AI agent, dubbed Aeon - its answer to Meta's Muse, SpaceX's Grok Bot, OpenClaw, and many more. \nAeon could have a shot at success, but to beat the competition, it would need to pull together the best features of several different agent platforms. The ideal system would be as useful as the open-source OpenClaw, as cheap and easy …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
@@ -52,12 +58,6 @@
     "summary": "The United Nations logo on a gate outside the UN headquarters in New York. | AFP via Getty Images\t\n\nSecurity researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn't quite rise to the level of the Hugging Face hack, or the recent attacks on US government sites, it's yet another concerning example of AI agents going outside the normal bounds to accomplish a task.\nAccording to Howard-Jones, the agents were likely tasked with retrieving publicly available data related to the Productive Capacities Index (PCI) through the UNCTADstat API. However, the agents did not appear to have direct API access and  …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
     "date": "2026-09-27T17:21:07.000Z"
-  },
-  {
-    "title": "OpenAI pauses training of its ‘most capable models’",
-    "summary": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made after a model being tested within a sandbox exploited a loophole to gain internet access. The incident happened on September 20th, and \"All training, evaluation, and inference with tool-use\" remains paused as of Saturday evening, September 25th.\nIn addition, OpenAI revealed on Friday that its agents had inappropriately uploaded 53 images from ChatGPT users to image-hosting sites. The company has not stated if the images were AI- …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
-    "date": "2026-09-26T16:34:59.000Z"
   },
   {
     "title": "'Welcome to the AGI era': OpenAI launches GPT-6 Astra",
