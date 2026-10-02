@@ -1,5 +1,29 @@
 [
   {
+    "title": "AI hallucinations are making entitled customers even worse",
+    "summary": "Madison, a server in New York City, greets every table by asking about each diner's allergies. Lately, there have been some close calls. \"Sometimes people will tell me they have a shellfish allergy, and I'll come back, and they won't ask me any questions,\" says Madison, who asked that her last name be withheld to protect her identity. \"And they'll order a fish dish that comes with a broth that is made of shellfish.\" \nWhen she tells them a dish contains an allergen, she's had guests push back, saying ChatGPT disagrees. \"They just want to talk to ChatGPT,\" Madison explains. \"You're allergic to shellfish, and ChatGPT says there's no shellfish  …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
+    "date": "2026-10-02T12:00:00.000Z"
+  },
+  {
+    "title": "If a data center is camouflaged in the woods, will anyone hate it?",
+    "summary": "San Antonio City Councilmember Ric Galvan remembers when data centers first arrived in his city in the 2000s, looking like relatively unassuming office buildings. But that's changed in recent years, as data centers have grown into massive \"hyperscale\" facilities spanning millions of square feet and housing the physical infrastructure for AI. \nThere are now more than a dozen data centers in Galvan's roughly 55-square-mile district, and he expects that number to grow to around 20 over the next few years if proposed projects are completed. They're clustered along two main roads, concentrating nuisances in the same neighborhoods: traffic and tr …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry",
+    "date": "2026-10-02T12:00:00.000Z"
+  },
+  {
+    "title": "Amazon writes scary blog warning communities not to block data centers",
+    "summary": "Amazon is calling for people to support AI data center projects, or risk irreparable harm to the US economy and national security. In a more than 3,000 word blog posted today, Amazon web services CEO Matt Garman pushed back on public concerns around the impact that data centers may have on jobs, power demands, and the environment, saying \"our nation can't afford to lose\" the race for AI dominance.\n\"With any change, there will be important questions raised, but there will also be misinformation and outright lies, and in the age of social media and 24/7 news, myths take hold faster than ever before,\" said Garman. \"In fact, this build out is s …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning",
+    "date": "2026-10-02T11:52:20.000Z"
+  },
+  {
+    "title": "AI music maker Suno now generates spoken words",
+    "summary": "Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions. Speech is now available in public beta across Suno's web and mobile platforms, and allows you to simultaneously generate voiceovers and background music to accompany them.\n\"Music will always be at the heart of Suno and what we build. At the same time, our vision has always extended to other forms of human expression,\" Suno chief product officer, Jack Brody, said in the announcement. \"Today, we're expanding what's possible in Suno with Speech: the first audio model that generates voice and music to …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+    "date": "2026-10-02T09:42:19.000Z"
+  },
+  {
     "title": "Google’s new Guided Vision feature can help you read the fine print",
     "summary": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By sharing your camera in Gemini Live, you can have Google's AI help with things like reading small text, describing your surroundings, finding or identifying objects around you, and describing details on specific objects. \nLike the VoiceOver Live Recognition feature Apple has added to the iPhone and Vision Pro, it's designed for people who are blind, have low vision, or want assistance in specific situations. In addition to the Gemini app, Guided Vision is also available  …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
@@ -34,30 +58,6 @@
     "summary": "Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon. The new model delivers \"frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cybersecurity defense,\" according to chief AI architect and Google DeepMind SVP Koray Kavukcuoglu. But the company is limiting access at first to a \"set of trusted cyber defenders,\" and Kavukcuoglu says that Google is \"actively engaged in the U.S. government's voluntary process for pre-release model access while we gradually expand access.\"\nKavukcuoglu says Gemini 4 Argon is already powering Google's …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
     "date": "2026-09-30T20:41:41.000Z"
-  },
-  {
-    "title": "The AI Tamagotchis are coming",
-    "summary": "Sam Altman onstage at OpenAI’s DevDay 2026. | Photo: Hayden Field / The Verge\t\n\nWhile AI has made plenty of inroads on people's phones and computers, it's largely failed in dedicated devices. But over the next year, two major AI companies, Meta and OpenAI, will attempt to change that. And they're apparently betting on a similar path: testing appetites for physical hardware with their cutesy software agents. \n\"Hardware is hard\" is a tech industry mantra. Dedicated AI devices like the Friend and Humane AI Pin have inspired mainly frustration and backlash, which may only worsen as public anger toward AI grows. Meta and OpenAI, however, are both pushing ahead. OpenAI is working with famed ex-Apple designer Jony Ive and pla …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
-    "date": "2026-09-30T18:07:38.000Z"
-  },
-  {
-    "title": "Here&#8217;s what AI leaders are saying about Trump’s new safety plan",
-    "summary": "If you think this shot is amusing, check out the panicked look on Zuckerberg’s face when Trump calls on him to speak. | Photo: Kevin Dietsch/Getty Images\t\n\nAfter hosting a meal with Big Tech leaders on Tuesday, President Donald Trump responded to journalist questions about his artificial intelligence announcements in typical fashion. He said his previous claims regarding fears around AI safety being a \"hoax\" cooked up by Democrats no longer apply now that he's renamed the technology to \"Super Intelligence.\" He brushed off concerns that the government wasn't enforcing enough AI guardrails because US companies are \"dominating China.\" \nAnd instead of ushering in federal AI regulations, Trump now has \"the smartest people in the world watching over each other.\"\nThe people in question here are Goog …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
-    "date": "2026-09-30T17:15:49.000Z"
-  },
-  {
-    "title": "All the latest news on Meta’s cute, creepy Muse AI agent",
-    "summary": "Meta launched a new Muse AI agent it claims can help you with everything from firing off emails to buying stuff online. Muse can be surprisingly effective at delivering on those promises — if you’re willing to trust Meta with your data and hand Muse your credit card. Since the launch, Meta’s also announced plans for a Tamagotchi-like Muse Charm device for its cuddly AI mascot. \nFollow along here for the latest news and updates.\nMeta’s Muse AI sent a YouTuber’s address to a stranger\n\t\t\t\nMeta expands Muse tools for small businesses.\n\t\t\t\nMeta Enterprise Platform will bring its Muse AI to businesses.\n\t\t\t\nMaybe don’t let Muse run your Facebook Marketplace account.\n\t\t\t\nThe Muse Charm won’t have Instagram built in.\n\t\t\t\nMeta makes the Muse filesystem even more accessible\n\t\t\t\nMuse will apparently let you download its entire filesystem\n\t\t\t\nMuse sure looks a lot like OpenClaw\n\t\t\t\nIt’s sinister that Meta’s Muse AI mascot is so cute\n\t\t\t\nMeta’s Muse AI Charms can interact with each other\n\t\t\t\nMeta is making a standalone Muse AI gadget\n\t\t\t\nMuse is coming to Meta smart glasses\n\t\t\t\nMeta is making Muse more powerful and will let you video chat with it, too\n\t\t\t\nMeta’s AI agent is a cute little guy who’s great at spending my money\n\t\t\t\nMeta patches Muse exploit that let attackers control the AI agent\n\t\t\t\nCan you forget how you feel about Meta?\n\t\t\t\nAmazon blocks Meta’s Muse AI agent\n\t\t\t\nMeta’s Muse is creepy, but maybe not for the reasons you think\n\t\t\t\nMeta’s Muse AI agent now has a Mac app.\n\t\t\t\nMeta’s Muse AI works and creeps me out\n\t\t\t\nMark Zuckerberg tells you to trust Muse.\n\t\t\t\nMeta bets on AI agent Muse to catch up in AI race",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai",
-    "date": "2026-09-30T15:18:49.000Z"
-  },
-  {
-    "title": "Google reportedly tests paying publishers for AI search results",
-    "summary": "Google has launched a pilot program that pays publishers for their contributions to its AI-powered search features, according to a report from The Information. The pilot program reportedly includes around 100 publishers and comes as Google faces scrutiny over the impact of its AI features on web traffic.\nDigiday first reported on the pilot program, which began less than a year ago. As part of the test, Google is reportedly paying participating publishers for how much their content contributed to AI Overviews and AI Mode in Search, as well as its Gemini chatbot. One publisher that joined the program when it first started earned over $1 milli …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features",
-    "date": "2026-09-30T14:51:49.000Z"
   },
   {
     "title": "'Welcome to the AGI era': OpenAI launches GPT-6 Astra",
