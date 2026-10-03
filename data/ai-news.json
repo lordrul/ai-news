@@ -1,5 +1,11 @@
 [
   {
+    "title": "Meta open sources code to let you make Muse AI gadgets",
+    "summary": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so you can display Muse on a big screen, or putting Muse on a small touchscreen device to make what looks kind of like a DIY Muse Charm.\n\"Muse gadgets are open source devices you build yourself,\" Meta says. \"Program an off-the-shelf ESP32 board or set up a Raspberry Pi with our SDKs, then connect Muse to your displays, buttons, sensors, actuators, and whatever else you've got lying on your workbench. …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+    "date": "2026-10-02T21:08:37.000Z"
+  },
+  {
     "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
     "summary": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to \"ensure that users who genuinely wish to grant an app this extraordinary level of access can only do so with very explicit user action.\"\nThe change comes just weeks after Inc's Jason Aten found that Meta's Muse AI somehow knew the contents of his messages, despite not giving the chatbot explicit permission to access them on his iPhone or Mac. Meta spokesperson Andy Stone pushed back on this report, saying access to Messages is \"entirely opt-in. …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
@@ -52,12 +58,6 @@
     "summary": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-powered search features, as reported earlier by Reuters. US District Judge Amit Mehta takes Google's side in a ruling on Wednesday, writing that PMC and Chegg's claims don't stand up to antitrust law.\nIn lawsuits filed last year, Chegg and PMC accused Google of abusing its monopoly power by coercing publishers into supplying content for AI Overviews for free, or risk disappearing from search results. The publishers alleged Google's practices diverted …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
     "date": "2026-10-01T17:12:21.000Z"
-  },
-  {
-    "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
-    "summary": "A pop-up shop for \"dots,\" a personal assistant agent at OpenAI DevDay 2026. (Photo by Heather Diehl/Getty Images) | Getty Images\t\n\nAt OpenAI's annual DevDay conference, the company pulled out all the stops to compete with its rivals - primarily Meta, whose Muse AI agent platform has seen early runaway success. CEO Sam Altman walked onstage to cheers and announced Dots, a \"real-deal AI\" agent powered by GPT-6 Astra, \"inspired by the cool agents that we all watched in movies growing up.\" Similar to Muse, Dots aims for disarming cuteness, taking the form of colorful, personalizable blobs with eyes. OpenAI fired shots at Meta by demonstrating Dots' ability to not just act as helpful assistants but build metaverse-esque virtual worlds. But in one key area, Dots strikingly fa …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
-    "date": "2026-10-01T14:36:50.000Z"
   },
   {
     "title": "'Welcome to the AGI era': OpenAI launches GPT-6 Astra",
