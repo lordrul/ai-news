@@ -1,5 +1,11 @@
 [
   {
+    "title": "An OpenAI safety employee has quit and is sounding the alarm",
+    "summary": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic.\nIt's understandable if you're feeling a bit cynical about everyone suddenly coming out of the woodwork to warn about how dangerous the thing they helped build is. They did, after all, make this mess. But that doesn't mean we should discount their warnings. \nRobinson says that the culture in industry is fundamentally broken. That this is a deeper issue than simply slapping a few new rules or regulations on how we handle training models. Silicon …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+    "date": "2026-10-03T14:31:56.000Z"
+  },
+  {
     "title": "Meta open sources code to let you make Muse AI gadgets",
     "summary": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so you can display Muse on a big screen, or putting Muse on a small touchscreen device to make what looks kind of like a DIY Muse Charm.\n\"Muse gadgets are open source devices you build yourself,\" Meta says. \"Program an off-the-shelf ESP32 board or set up a Raspberry Pi with our SDKs, then connect Muse to your displays, buttons, sensors, actuators, and whatever else you've got lying on your workbench. …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
@@ -52,12 +58,6 @@
     "summary": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By sharing your camera in Gemini Live, you can have Google's AI help with things like reading small text, describing your surroundings, finding or identifying objects around you, and describing details on specific objects. \nLike the VoiceOver Live Recognition feature Apple has added to the iPhone and Vision Pro, it's designed for people who are blind, have low vision, or want assistance in specific situations. In addition to the Gemini app, Guided Vision is also available  …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
     "date": "2026-10-01T19:47:51.000Z"
-  },
-  {
-    "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
-    "summary": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-powered search features, as reported earlier by Reuters. US District Judge Amit Mehta takes Google's side in a ruling on Wednesday, writing that PMC and Chegg's claims don't stand up to antitrust law.\nIn lawsuits filed last year, Chegg and PMC accused Google of abusing its monopoly power by coercing publishers into supplying content for AI Overviews for free, or risk disappearing from search results. The publishers alleged Google's practices diverted …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
-    "date": "2026-10-01T17:12:21.000Z"
   },
   {
     "title": "'Welcome to the AGI era': OpenAI launches GPT-6 Astra",
