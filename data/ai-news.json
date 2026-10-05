@@ -1,5 +1,23 @@
 [
   {
+    "title": "An open-source tool lets you delete 12GB of Apple Intelligence data on macOS",
+    "summary": "Getting some extra storage space on your Mac could be as easy as deleting Apple's AI features with a new open-source command line tool called RemoveMacAI. There used to be a single Settings toggle for disabling Apple Intelligence, but that was removed in macOS 27. Now, the models stay on your disk, and the features are split up across different settings panes.\nAs spotted earlier by MacRumors, the RemoveMacAI developer said in a post on Reddit that the tool essentially does what the old settings toggle did, deleting the models and turning the features off: \nYou have to find about a dozen settings, and several of them are under Screen Time. …\n\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool",
+    "date": "2026-10-05T13:47:14.000Z"
+  },
+  {
+    "title": "OpenAI is sticking more ads in ChatGPT",
+    "summary": "OpenAI's latest ad format will put images of sponsored products and services on your screen. The ads, which OpenAI will begin testing in the US later this month, will \"initially\" appear when you generate images with ChatGPT, according to an announcement on Monday.\nThe company first brought ads to ChatGPT in February. Until now, ChatGPT's ads only showed a company's name, logo, and a link to its product in a \"sponsored\" section beneath your chat. OpenAI's visual ad format will similarly remain separate from the image you generate and will \"not influence the answers ChatGPT provides.\" Ads won't appear if you subscribe to ChatGPT's Plus, Pro,  …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
+    "date": "2026-10-05T13:09:48.000Z"
+  },
+  {
+    "title": "Our minds aren’t equipped to handle AI",
+    "summary": "Norbert Wiener, godfather of cybernetics, once said, \"The thought of every age is reflected in its technique.\" For the past century, our thought has been reflected in our computers, including by those in the AI industry. Google's Demis Hassabis calls the brain \"a biological approximation to a Turing machine.\" Elon Musk puts it more bluntly, declaring that \"people should just think of the brain as a biological computer.\" (Musk's brain often worries me.)\nBut humans are more complex than a straightforward comparison to computers gives us credit for - and far more than most of the AI industry seems to appreciate. And as their products push e …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
+    "date": "2026-10-05T10:00:00.000Z"
+  },
+  {
     "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
     "summary": "Well, if AI said it, it must be true. | Bloomberg via Getty Images\t\n\nNew Jersey's lieutenant governor Dale Caldwell was forced to resign on September 25th after an investigation found he had sexually harassed a staffer and repeatedly violated ethics rules. The now-former Lt. governor has been making the media rounds trying to clear his name. But he took a particularly odd tactic during an interview on NJ PBS. \nCaldwell claims he's being unfairly targeted, and multiple AI agents back that up. He told host Rob Nelson that he \"AIed\" the report on the investigation \"from multiple AI platforms.\" \"I put it through AI,\" he said, \"and it said 59 times, it [sic] said, 'What would your findings be?' There was no insta …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
@@ -40,24 +58,6 @@
     "summary": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to \"ensure that users who genuinely wish to grant an app this extraordinary level of access can only do so with very explicit user action.\"\nThe change comes just weeks after Inc's Jason Aten found that Meta's Muse AI somehow knew the contents of his messages, despite not giving the chatbot explicit permission to access them on his iPhone or Mac. Meta spokesperson Andy Stone pushed back on this report, saying access to Messages is \"entirely opt-in. …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
     "date": "2026-10-02T20:08:40.000Z"
-  },
-  {
-    "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
-    "summary": "New helpful little guy just dropped. | Photo: Allison Johnson / The Verge\t\n\nIt's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding. \nBut unlike the ultra-approachable Meta Muse, Dots feel very much like using workplace software that happens to be able to order you a burrito - emphasis on work. \nOpenAI announced Dots earlier this week. Like Muse, Dots have blobby, anthropomorphic avatars and customizable names. In the future, OpenAI says you'll be able to have multiple Dots, but right now you get one. I named mine Dotty McDotface.\nThe interface looks similar to Muse's; you chat with the agent in one window and follow its work in another as it  …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
-    "date": "2026-10-02T18:00:00.000Z"
-  },
-  {
-    "title": "Breaking up (with Elon Musk) is hard to do",
-    "summary": "In a throwback to MySpace-style internet drama, Shivon Zilis announced that she and the father of her four children, Elon Musk, had broken up on X.\nTo do so, she quote-tweeted a post from \"Big Tech Alert,\" an account that, among other things, monitors what accounts are following and unfollowing each other. That post noted Musk was no longer following her on X. It was also sponsored by Kalshi, because everything in this relationship is totally fucking cursed, dude.\nIn her statement, Zilis wrote, \"It's hard to go from in love to let go in a week with no warning, but that's just how it is sometimes.\" \n\n\"Uh, you know.\"\n\nZilis, in addition to h …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/tech/1004177/elon-musk-unfollows-shivon-zilis",
-    "date": "2026-10-02T17:37:36.000Z"
-  },
-  {
-    "title": "AI hallucinations are making entitled customers even worse",
-    "summary": "Madison, a server in New York City, greets every table by asking about each diner's allergies. Lately, there have been some close calls. \"Sometimes people will tell me they have a shellfish allergy, and I'll come back, and they won't ask me any questions,\" says Madison, who asked that her last name be withheld to protect her identity. \"And they'll order a fish dish that comes with a broth that is made of shellfish.\" \nWhen she tells them a dish contains an allergen, she's had guests push back, saying ChatGPT disagrees. \"They just want to talk to ChatGPT,\" Madison explains. \"You're allergic to shellfish, and ChatGPT says there's no shellfish  …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
-    "date": "2026-10-02T12:00:00.000Z"
   },
   {
     "title": "'Welcome to the AGI era': OpenAI launches GPT-6 Astra",
