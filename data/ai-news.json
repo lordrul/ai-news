@@ -1,5 +1,53 @@
 [
   {
+    "title": "ChatGPT&#8217;s &#8216;Intelligent UI&#8217; update fills its responses with pictures, charts, and buttons",
+    "summary": "OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all users alongside GPT-6, gives ChatGPT the ability to combine a text response with diagrams, charts, forms, tappable buttons, and more.\nIn a blog post explaining the change, OpenAI says it trained GPT-6 when to generate interactive visuals over text, as well as how to format them in its response. An example shared by OpenAI shows how ChatGPT might show a diagram of a seven-speed bicycle if you ask about its design, complete with interactive buttons that highlight differe …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+    "date": "2026-10-07T19:10:42.000Z"
+  },
+  {
+    "title": "Everything announced at Microsoft&#8217;s Surface Laptop Ultra event",
+    "summary": "Microsoft just wrapped up a big Windows and Surface-focused keynote in San Francisco.\nThe biggest announcement was arguably the release details about the Surface Laptop Ultra, its new laptop that’s powered by Nvidia’s RTX Spark Arm-based chip. The machine will start at $2,599 for a configuration with an 8-core CPU, 24GB of RAM, and 512GB of storage, and it will be released on October 16th. The laptop also has built-in magnetic USB-C charging instead of the proprietary Surface Connect magnetic charging port. The Verge‘s Tom Warren published a deep dive all about the new laptop. Microsoft also announced that the Surface RTX Spark Dev Box, a mini PC for developers, is available for preorder for $5,999 ahead of shipping in November.\nIn addition, Microsoft shared details about some updates coming to Windows, including “Hybrid Intelligence” features that lets Copilot use files on your Windows PC to take actions and a new search experience that lets you do quick actions from the search bar.\nYou can catch up with all of our coverage from the event right here.\nFs in the chat.\n\t\t\t\nThe first Nvidia RTX Spark laptops cost up to $7,000\n\t\t\t\nMicrosoft is giving Copilot more control over Windows and your files\n\t\t\t\nThe Surface Laptop Ultra finally has a release date — and a starting price of $2,599\n\t\t\t\nSurface RTX Spark Dev Box is available for preorder for $5,999\n\t\t\t\nMicrosoft’s Surface Laptop Ultra has built-in magnetic USB-C charging\n\t\t\t\nMuse is coming to Windows.\n\t\t\t\nWindows and Surface live blog: On the ground at Microsoft’s event",
+    "url": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced",
+    "date": "2026-10-07T18:42:22.000Z"
+  },
+  {
+    "title": "Microsoft is giving Copilot more control over Windows and your files",
+    "summary": "At today's Windows and Surface event, Microsoft showed off an upgrade to its Copilot AI system that will give it access to local files on your PC and the ability to take actions across the OS. It's part of an idea Microsoft is calling \"Hybrid Intelligence,\" where apps and tools rely on a mix of local and cloud AI models to accomplish tasks efficiently.\nTo show off how Hybrid Intelligence works, Jacob Andreou, Microsoft's EVP of Copilot, walked through a video demo onstage asking Microsoft's Autopilot tool to help with filing taxes. Andreou told the AI agent that he got an email from his accountant and asked Autopilot to get her what she nee …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
+    "date": "2026-10-07T18:01:20.000Z"
+  },
+  {
+    "title": "Surface RTX Spark Dev Box is available for preorder for $5,999",
+    "summary": "Microsoft's Nvidia-powered Surface RTX Spark Dev Box is available for preorder now and is slated to ship in November for just about $6,000. It's pricier than the DGX Spark mini PC Nvidia launched last year, but PC prices have been climbing due to shortages of RAM and other components.\nThe Dev Box's flat, 3D-printed anodized aluminum chassis doubles as a heatsink and resembles the top vents on an Xbox Series X. It was introduced alongside the new Surface Laptop Ultra and runs on Nvidia's Arm-based RTX Spark platform and 128GB of unified memory. With that much memory, along with a 100-watt thermal envelope and Nvidia's Tensor cores, you could …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder",
+    "date": "2026-10-07T17:46:44.000Z"
+  },
+  {
+    "title": "ChatGPT is getting college planning tools",
+    "summary": "A preview of OpenAI’s College Planner. | Image: OpenAI\t\n\nOpenAI is bringing new tools to ChatGPT for Teens, a mode for teens introduced in August with safeguards and break reminders, to help users with the college application process. \n\"College Planner brings together application requirements, deadlines, tasks, and financial-aid steps for schools on a student's list in one plan,\" OpenAI says. \"Students applying to several colleges can return to it to update their progress, use the timeline to plan ahead and see what's left to do. They can also ask ChatGPT questions along the way, from what a requirement means to how to get started.\"\nThe new College Planner feature will arrive \"soon,\" according t …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards",
+    "date": "2026-10-07T16:00:00.000Z"
+  },
+  {
+    "title": "Muse launches on the iPad",
+    "summary": "After launching nearly a month ago and spending several weeks as the top free app in Apple's App Store, the latest update to Meta's Muse iOS app introduces native support for the iPad. A Mac version of Meta's agentic AI tool (designed to compete with OpenClaw, ChatGPT's Dots, and Grok Bot) was released about a week after the original mobile version debuted expanding its usefulness to desktop tasks like organizing files. The new iPad version should function similar to Muse on iPhones, but better take advantage of the extra screen real estate and iPadOS' better multitasking capabilities.\nThe newly added iPad support is limited to just a one l …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/tech/1006813/muse-ai-agent-ios-app-ipad-support",
+    "date": "2026-10-07T15:37:23.000Z"
+  },
+  {
+    "title": "Google invests millions in Mark Zuckerberg’s efforts to create a ‘virtual cell’",
+    "summary": "Google DeepMind, Meta, and AI drug discovery startup Isomorphic Labs are jointly investing $300 million into an initiative to create a \"virtual cell\" that researchers can use to combat disease, as reported earlier by Reuters. The project is led by Biohub, a nonprofit biomedical research organization founded by Mark Zuckerberg and his wife, Priscilla Chan. It comes as part of a $1.8 billion \"Virtual Biology\" initiative to build AI datasets that could allow researchers to \"ask, predict, and answer biological questions digitally.\"\nFounded in 2016, Biohub aims to prevent and cure diseases through the creation of a \"high-accuracy predictive mode …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell",
+    "date": "2026-10-07T14:40:52.000Z"
+  },
+  {
+    "title": "AI could upend food delivery",
+    "summary": "DoorDash, the leading food delivery app, processed 970 million orders in its second quarter this year and generated $4.5 billion in revenue. A 10-person startup called Bites is a blip in comparison: It has just around 300 restaurants signed up in the Bay Area, where it's operating as a pre-seed startup. But this summer, Bites caught DoorDash's attention.\nIn August, a slew of restaurants in the Bay Area received a strange email from DoorDash, warning businesses that they may be listed without their consent on Bites.  \nThe form letter, copies of which were seen by The Verge, said that DoorDash had heard from \"several partners\" that were adde …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites",
+    "date": "2026-10-07T12:00:00.000Z"
+  },
+  {
     "title": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
     "summary": "Common Sense Media, a nonprofit that offers reviews of apps, services, and entertainment with a focus on youth safety, today said that OpenAI's ChatGPT for Teens is an \"unacceptable risk.\"\nChatGPT for Teens, introduced in August, has guardrails for teens and is designed to help students learn, but Common Sense Media says that the teen protections offered by the feature \"fall short of what the company promised.\" Common Sense Media's assessment found that ChatGPT \"doesn't send alerts to parents when it should,\" doesn't offer \"the right help in crisis situations,\" and \"still does kids' homework,\" according to a press release.\n\"ChatGPT for Tee …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
@@ -10,54 +58,6 @@
     "summary": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers. It extends a run of breakthroughs that have both impressed and unsettled parts of the mathematical community while raising questions about research ethics and academic conduct. According to AGMAI, the newly formed independent advisory group of elite mathematicians put together to work on communicating the results responsibly, the release includes solutions to \"hundreds\" of open questions.\nThe results have been expected for weeks, althou …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
     "date": "2026-10-06T23:26:38.000Z"
-  },
-  {
-    "title": "We can’t just change the definition of ‘recording’",
-    "summary": "With AI hardware, tech companies are pushing the definition of what does and doesn't constitute a recording. For most of gadget history, it'd be reasonable to assume that a device with a microphone or camera is either recording you or it isn't; it's either on or off, without much gray area. Microphones capture sound. Cameras capture images. That data is saved onto a device. Sometimes, it's also sent to the cloud - hopefully with end-to-end encryption - for processing. That data is a preserved instant in time and is therefore a recording. \nPerhaps not anymore. \nLast week, Bloomberg's Mark Gurman reported that Apple is working on a smart hom …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording",
-    "date": "2026-10-06T16:29:44.000Z"
-  },
-  {
-    "title": "Google is about to remove free access to Gemini Flash and Pro",
-    "summary": "Starting on October 9th, anyone using Google Gemini on a free plan will be limited to the Flash Lite model. Free users can currently choose from Gemini Flash Lite, Flash, and Pro, but now you'll need a $4.99/month Google AI Plus subscription to access the standard Flash model. However, that subscription is also getting a downgrade - it will soon no longer include Gemini Pro. Google says AI Plus subscribers will receive an email letting them know when they'll lose access to it. \nAfter these changes, access to the top-tier Gemini Pro model and a \"Deep Think\" advanced reasoning option will be restricted to users with a Google AI Pro or Ultra s …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
-    "date": "2026-10-06T13:19:01.000Z"
-  },
-  {
-    "title": "Amazon Alexa Plus keeps creepily singing ‘lalala’ for minutes on end",
-    "summary": "The Amazon Echo Studio is one of the speakers that runs Alexa Plus. | Photo by John Higgins / The Verge\t\n\nAn unsettling Alexa Plus bug has seen some Amazon Echo smart home speakers reduced to saying - and sometimes singing - nothing but \"lalala\" on repeat for minutes at a time, often in the middle of conversations with users. When quizzed about the behavior, Alexa is apparently entirely unaware of what it's been doing.\nThe issue has been reported on Reddit repeatedly over the last few weeks, as recently as three days ago, across multiple types of Echo speaker. Multiple users have uploaded videos of the speakers' strange behavior. Here's one that Android Authority uploaded to YouTube:\n\nAmazon is aware of the issue, and told Android Authority in  …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/tech/1005342/amazon-alexa-plus-keeps-creepily-singing-lalala-for-minutes-on-end",
-    "date": "2026-10-06T10:53:11.000Z"
-  },
-  {
-    "title": "Gemini Call for Me might tell your mom you&#8217;re running late",
-    "summary": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory screen in an APK teardown with examples that include \"Call Mom and tell her I will be 15 minutes late\" and \"Call John and ask if he is coming for dinner.\" \nBased on those examples, even with this expansion, Gemini would likely be limited to basic, text message-like calls. While Google's AI might not automate an entire catch-up phone call with your relatives, it could deliver quick messages to people who prefer a phone call, miss texts often, or  …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
-    "date": "2026-10-05T23:09:55.000Z"
-  },
-  {
-    "title": "This startup is issuing AI-generated acne prescriptions",
-    "summary": "People in Utah can now use AI to get a prescription for acne treatment. On Monday, healthcare startup Nolla Health announced that users in the state can scan their faces using its app, allowing its AI system to analyze acne severity and autonomously write a prescription, as reported earlier by Bloomberg.\nThe service is launching as a pilot program with gradually loosening physician oversight. Two physicians will approve each AI-generated prescription before they're issued for the first 100 patients, but will start reviewing them only after they're prescribed for up to 500 patients. \"After that, physicians review a sample of at least 10% of  …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
-    "date": "2026-10-05T20:14:57.000Z"
-  },
-  {
-    "title": "All the drama around AI&#8217;s takeover of mathematics",
-    "summary": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current systems to be capable of — including resolving one of the famous Millennium Prize problems. But in classic Silicon Valley style, AI labs are moving fast and breaking things, barreling through the discipline with all the grace of a runaway bulldozer. Results that might normally have been celebrated have instead sparked backlash. AI labs say they are learning from earlier mistakes. Whether those promises bear fruit remains to be seen.\nRead on below for the latest updates in the AI takeover of mathematics.\n\n\n\t\t\t\t\t\nOpenAI drops another batch of mathematical breakthroughs\n\t\t\t\nOpenAI keeps bulldozing mathematicians\n\t\t\t\nOpenAI wants to consult elite mathematicians about how to not fumble again\n\t\t\t\nOpenAI just wants to win\n\t\t\t\nMathematicians want proof OpenAI didn’t use their work \n\t\t\t\nOpenAI’s sly mathematical breakthrough sends a chill through academia\n\t\t\t\nDrama swirls around OpenAI’s legendary mathematical milestone\n\t\t\t\nWelcome to the AI crisis in math\n\t\t\t\nThe AI takeover of mathematics has begun",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
-    "date": "2026-10-05T19:28:59.000Z"
-  },
-  {
-    "title": "Wikipedia operator says OpenAI&#8217;s &#8216;rogue&#8217; bots may be linked to a May outage",
-    "summary": "Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation, which hosts Wikipedia, says that it \"can confirm that we have discovered some activity\" by \"rogue\" OpenAI agents on Wikimedia platforms.\nThe activity includes edits to Wikimedia wikis, \"unsuccessful attempts\" to \"exploit\" the Etherpad note-taking tool that the Wikimedia Foundation hosts, and heavy traffic that the foundation says \"may\" have contributed to a partial outage that happened in May, according to a blog post. However, the Wikimedia Foundation says it didn't find evidence that its systems were \"used for coordinat …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
-    "date": "2026-10-05T19:05:19.000Z"
-  },
-  {
-    "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
-    "summary": "An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first. \nOpenAI says its textGrain watermarking \"matched or exceeded\" other approaches like Google DeepMind's SynthID for text, which is also the basis for the watermarking Anthropic announced in August. Like OpenAI, Anthropic made the move to meet the requirements of the EU's AI Act; however, not everyone was happy to learn about the addition.\nOpenAI also included scores from AI benchmarks showing similar performance from watermarked and unwatermarked text. But it notes that textGrain \"does not guarantee  …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
-    "date": "2026-10-05T18:08:39.000Z"
   },
   {
     "title": "'Welcome to the AGI era': OpenAI launches GPT-6 Astra",
