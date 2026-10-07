@@ -1,5 +1,11 @@
 [
   {
+    "title": "OpenAI drops another batch of mathematical breakthroughs",
+    "summary": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers. It extends a run of breakthroughs that have both impressed and unsettled parts of the mathematical community while raising questions about research ethics and academic conduct. According to AGMAI, the newly formed independent advisory group of elite mathematicians put together to work on communicating the results responsibly, the release includes solutions to \"hundreds\" of open questions.\nThe results have been expected for weeks, althou …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+    "date": "2026-10-06T23:26:38.000Z"
+  },
+  {
     "title": "We can’t just change the definition of ‘recording’",
     "summary": "With AI hardware, tech companies are pushing the definition of what does and doesn't constitute a recording. For most of gadget history, it'd be reasonable to assume that a device with a microphone or camera is either recording you or it isn't; it's either on or off, without much gray area. Microphones capture sound. Cameras capture images. That data is saved onto a device. Sometimes, it's also sent to the cloud - hopefully with end-to-end encryption - for processing. That data is a preserved instant in time and is therefore a recording. \nPerhaps not anymore. \nLast week, Bloomberg's Mark Gurman reported that Apple is working on a smart hom …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording",
@@ -31,7 +37,7 @@
   },
   {
     "title": "All the drama around AI&#8217;s takeover of mathematics",
-    "summary": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current systems to be capable of — including resolving one of the famous Millennium Prize problems. But in classic Silicon Valley style, AI labs are moving fast and breaking things, barreling through the discipline with all the grace of a runaway bulldozer. Results that might normally have been celebrated have instead sparked backlash. AI labs say they are learning from earlier mistakes. Whether those promises bear fruit remains to be seen.\nRead on below for the latest updates in the AI takeover of mathematics.\n\n\n\t\t\t\t\t\nOpenAI keeps bulldozing mathematicians\n\t\t\t\nOpenAI wants to consult elite mathematicians about how to not fumble again\n\t\t\t\nOpenAI just wants to win\n\t\t\t\nMathematicians want proof OpenAI didn’t use their work \n\t\t\t\nOpenAI’s sly mathematical breakthrough sends a chill through academia\n\t\t\t\nDrama swirls around OpenAI’s legendary mathematical milestone\n\t\t\t\nWelcome to the AI crisis in math\n\t\t\t\nThe AI takeover of mathematics has begun",
+    "summary": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current systems to be capable of — including resolving one of the famous Millennium Prize problems. But in classic Silicon Valley style, AI labs are moving fast and breaking things, barreling through the discipline with all the grace of a runaway bulldozer. Results that might normally have been celebrated have instead sparked backlash. AI labs say they are learning from earlier mistakes. Whether those promises bear fruit remains to be seen.\nRead on below for the latest updates in the AI takeover of mathematics.\n\n\n\t\t\t\t\t\nOpenAI drops another batch of mathematical breakthroughs\n\t\t\t\nOpenAI keeps bulldozing mathematicians\n\t\t\t\nOpenAI wants to consult elite mathematicians about how to not fumble again\n\t\t\t\nOpenAI just wants to win\n\t\t\t\nMathematicians want proof OpenAI didn’t use their work \n\t\t\t\nOpenAI’s sly mathematical breakthrough sends a chill through academia\n\t\t\t\nDrama swirls around OpenAI’s legendary mathematical milestone\n\t\t\t\nWelcome to the AI crisis in math\n\t\t\t\nThe AI takeover of mathematics has begun",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
     "date": "2026-10-05T19:28:59.000Z"
   },
@@ -52,12 +58,6 @@
     "summary": "An OpenAI publicist tried to change the topic of CEO Sam Altman's interview with Vanity Fair's Mark Guiducci after the editor brought up a ChatGPT user's suicide. When Guiducci confronted Altman about the incident, the publicist warned Guiducci about running out of time, saying she'd like to \"move on\" to another topic.\nThe interruption came shortly after Guiducci asked Altman if he knew who Laura Reiley is, a journalist who wrote an essay for The New York Times about her daughter's conversations with ChatGPT before she took her own life. \"Her daughter committed suicide after speaking to ChatGPT. ChatGPT did not tell her to kill herself-\" Gu …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
     "date": "2026-10-05T16:55:42.000Z"
-  },
-  {
-    "title": "Sam Altman says ‘some bad things&#8217; will happen, but AI is totally worth it",
-    "summary": "Sam Altman thinks that the benefits of AI will be so great that \"the world should accept some bad things happening\" along the way.\nThe OpenAI CEO pointed to hacks, scams, and \"other bad things\" as costs society should expect to tolerate because \"people will do tremendously orders of magnitude more good stuff\" with AI, without elaborating on the potential benefits. His comments come as OpenAI pushes for a \"lighter touch\" approach to AI regulation amid intensifying anxiety over the safety of frontier models - fears fueled in part by the company's repeated failures to keep its increasingly capable AI agents from hacking real-world targets. \nI …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff",
-    "date": "2026-10-05T16:44:21.000Z"
   },
   {
     "title": "'Welcome to the AGI era': OpenAI launches GPT-6 Astra",
