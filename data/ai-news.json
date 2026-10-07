@@ -1,5 +1,11 @@
 [
   {
+    "title": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
+    "summary": "Common Sense Media, a nonprofit that offers reviews of apps, services, and entertainment with a focus on youth safety, today said that OpenAI's ChatGPT for Teens is an \"unacceptable risk.\"\nChatGPT for Teens, introduced in August, has guardrails for teens and is designed to help students learn, but Common Sense Media says that the teen protections offered by the feature \"fall short of what the company promised.\" Common Sense Media's assessment found that ChatGPT \"doesn't send alerts to parents when it should,\" doesn't offer \"the right help in crisis situations,\" and \"still does kids' homework,\" according to a press release.\n\"ChatGPT for Tee …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
+    "date": "2026-10-07T09:00:00.000Z"
+  },
+  {
     "title": "OpenAI drops another batch of mathematical breakthroughs",
     "summary": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers. It extends a run of breakthroughs that have both impressed and unsettled parts of the mathematical community while raising questions about research ethics and academic conduct. According to AGMAI, the newly formed independent advisory group of elite mathematicians put together to work on communicating the results responsibly, the release includes solutions to \"hundreds\" of open questions.\nThe results have been expected for weeks, althou …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
@@ -52,12 +58,6 @@
     "summary": "An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first. \nOpenAI says its textGrain watermarking \"matched or exceeded\" other approaches like Google DeepMind's SynthID for text, which is also the basis for the watermarking Anthropic announced in August. Like OpenAI, Anthropic made the move to meet the requirements of the EU's AI Act; however, not everyone was happy to learn about the addition.\nOpenAI also included scores from AI benchmarks showing similar performance from watermarked and unwatermarked text. But it notes that textGrain \"does not guarantee  …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
     "date": "2026-10-05T18:08:39.000Z"
-  },
-  {
-    "title": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user&#8217;s suicide",
-    "summary": "An OpenAI publicist tried to change the topic of CEO Sam Altman's interview with Vanity Fair's Mark Guiducci after the editor brought up a ChatGPT user's suicide. When Guiducci confronted Altman about the incident, the publicist warned Guiducci about running out of time, saying she'd like to \"move on\" to another topic.\nThe interruption came shortly after Guiducci asked Altman if he knew who Laura Reiley is, a journalist who wrote an essay for The New York Times about her daughter's conversations with ChatGPT before she took her own life. \"Her daughter committed suicide after speaking to ChatGPT. ChatGPT did not tell her to kill herself-\" Gu …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
-    "date": "2026-10-05T16:55:42.000Z"
   },
   {
     "title": "'Welcome to the AGI era': OpenAI launches GPT-6 Astra",
