@@ -1,5 +1,11 @@
 [
   {
+    "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+    "summary": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on. While most of the broader population is sticking with AI, some of Silicon Valley's most powerful are falling in line and trying to give Trump the great AI rebrand he so desires. \nThat Elon Musk was quick to jump on board, promising to rename SpaceXAI to SpaceXSI, isn't surprising. When, hours after Donald Trump declared that \"The White House considers anyone that uses the term, 'Artificial Intelligence,' as opposed to the highly accepted new and more accurate term, 'Super I …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+    "date": "2026-10-11T18:33:56.000Z"
+  },
+  {
     "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
     "summary": "Baby’s first local AI agent. | Photo: Antonio G. Di Benedetto / The Verge\t\n\nI'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of. Is this tech so useful that it's worth throwing gobs of money at a computer or a laptop with lots of overpriced RAM? I'll try to help you find out. I'm not an AI expert, it's going to be a journey for me, but maybe I can help you see if that journey is worth taking - and I'll be posting my way through it.\nA big part of Apple's pitch for its new Mac desktops is how good they  …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
@@ -52,12 +58,6 @@
     "summary": "President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like \"Little Marco\" and \"Crooked Hillary\"; he changed \"fake news\" from a phrase describing scammy media outlets to a derogatory term for the press at large. Over the past few weeks, he's clearly decided he can work the same magic to promote artificial intelligence - branding a technology he wants to accelerate \"super\", while turning \"artificial\" into his latest go-to pejorative and declaring resisters \"THE ENEMY.\" Some of the biggest names in AI are going along with him. But he's picked a tough linguistic batt …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
     "date": "2026-10-09T14:25:43.000Z"
-  },
-  {
-    "title": "Instinct was the buzziest AI agent around — can it survive Muse?",
-    "summary": "Instinct’s agent is always just a text away.\t\n\nBefore there were cute little guys, there was Instinct.\nIn August, the startup got its AI agent to market with an unusual playbook: invite-only, no marketing, and barely so much as a website. And yet, Instinct quickly became the buzziest thing in AI, garnering praise for its straightforward, text message-based interface and its ability to handle chores like booking DMV appointments and sending follow-up emails.\nThen Muse arrived, followed not long after by Dots. The same products, more or less, from two far more powerful companies.\nWith Big Tech players suddenly in the mix, it was looking dubious that the startup's buzzy launch could keep …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
-    "date": "2026-10-09T14:00:00.000Z"
   },
   {
     "title": "'Welcome to the AGI era': OpenAI launches GPT-6 Astra",
