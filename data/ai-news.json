@@ -1,5 +1,11 @@
 [
   {
+    "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+    "summary": "Microsoft’s Maia 300 chip. | Image: Microsoft\t\n\nMicrosoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services. Maia 300 not only improves the cost and efficiency of running AI workloads in the cloud, it's also more capable of handling the latest reasoning models and agentic tasks.\nMaia 300 will start being rolled out to production in 2027, and it has been designed with efficiency in mind. \"We expect Maia 300 to deliver 40 percent more tokens per megawatt compared to leading GPU-based systems,\" says Scott Guthrie, executive vice president of Microsoft's cloud group. \"And in a full 96-acceler …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+    "date": "2026-10-12T13:00:00.000Z"
+  },
+  {
     "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
     "summary": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on. While most of the broader population is sticking with AI, some of Silicon Valley's most powerful are falling in line and trying to give Trump the great AI rebrand he so desires. \nThat Elon Musk was quick to jump on board, promising to rename SpaceXAI to SpaceXSI, isn't surprising. When, hours after Donald Trump declared that \"The White House considers anyone that uses the term, 'Artificial Intelligence,' as opposed to the highly accepted new and more accurate term, 'Super I …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
@@ -52,12 +58,6 @@
     "summary": "The original first place video used AI in post-processing. | Image: Dr. Ning Xu\t\n\nNikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regarding generative AI.\" BBC reports that the original first place video from Dr. Ning Xu claimed to show \"tiny, hair-like structures called cilia moving in the airway of a child with the respiratory condition PCD.\" Nikon said last week that it was reviewing the video following skepticism online about its authenticity. \nIn a comment on LinkedIn, Dr. Xu admitted to using AI for the video: \"An unsupervised neural-network method was subsequently used for AI-assisted post-processing to distinguish and visualize f …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
     "date": "2026-10-09T18:06:57.000Z"
-  },
-  {
-    "title": "Trump’s attempt to rename AI is looking awfully artificial",
-    "summary": "President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like \"Little Marco\" and \"Crooked Hillary\"; he changed \"fake news\" from a phrase describing scammy media outlets to a derogatory term for the press at large. Over the past few weeks, he's clearly decided he can work the same magic to promote artificial intelligence - branding a technology he wants to accelerate \"super\", while turning \"artificial\" into his latest go-to pejorative and declaring resisters \"THE ENEMY.\" Some of the biggest names in AI are going along with him. But he's picked a tough linguistic batt …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
-    "date": "2026-10-09T14:25:43.000Z"
   },
   {
     "title": "'Welcome to the AGI era': OpenAI launches GPT-6 Astra",
