@@ -1,5 +1,11 @@
 [
   {
+    "title": "A woman was arrested in Philly for blocking a delivery robot",
+    "summary": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers and so, I have been protesting them whenever I saw them by standing in front of them and preventing them from going forward.\"\nPolice responded to the scene and asked Marvin to move out of the robot's way. When she refused, they placed her in cuffs and arrested her. The incident was captured on video and has now garnered considerable media attention. \nThe delivery robots have become a common sight on the …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+    "date": "2026-10-18T18:28:10.000Z"
+  },
+  {
     "title": "Meta removes language that may have allowed it to scrape news sites",
     "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page:\n… Meta may use any content from such domains, web pages, or URLs to provide, develop, improve, research, train, and maintain the integrity of, the Meta Company Products, services, and features provided under these Commercial Terms and any other applicable supplemental terms.\nMany, including Neiman Lab and James Grimmelmann, a professor of digital and information law at Cornell, interpreted it as an  …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
@@ -52,12 +58,6 @@
     "summary": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can then share with others as their own websites. In an interview at TechCrunch Disrupt, Bluesky CEO Toni Schneider said to think of Attie as \"social vibe coding or vibe coding for your community.\"\n\n\n\n\n\nYou can make your own Attie app by typing in a prompt. A simple poll I made about Pokémon Red and Pokémon Blue took a few minutes to generate. If you want to check out something more full-featured, the Attie website currently highlights a few examples l …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
     "date": "2026-10-15T19:57:16.000Z"
-  },
-  {
-    "title": "Meta and Apple team up to make Muse AI models run better on Macs",
-    "summary": "The new Muse Spark Open AI model can work on M5 Ultra Mac Studios. | Photo: Amelia Holowaty Krales / The Verge\t\n\nMeta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" But the company also says that it's the \"the first model in its class\" that can \"run on your desktop using two Apple M5 Ultra Mac Studios with the latest MLX framework.\"\nMeta and Apple, typically rivals, worked together on the launch and are publicly supporting each other.\n\"Muse Spark Open - weights releasing today - runs great on new Mac Studios thanks to work with @johnternus and Apple,\" Meta CEO Mark Zuckerberg said on X.\n\"Congrats to the team!\" new Apple CEO John Ternus said in a reply. \"Amazing to run a model of Muse …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
-    "date": "2026-10-15T18:15:36.000Z"
   },
   {
     "title": "'Welcome to the AGI era': OpenAI launches GPT-6 Astra",
