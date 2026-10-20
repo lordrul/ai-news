@@ -1,5 +1,17 @@
 [
   {
+    "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
+    "summary": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday that says Spotify has also made changes to its recommendation system to highlight more music made by human artists.\n\"Our editors hold the same standard and don't program content identified as slop or spam,\" Spotify says. \"Since we made these changes, we've seen a marked decrease in listener concerns about this content showing up in recommendations.\" \nThough Spotify has stopped short of mandating labels on all AI tracks, it launched an \"AI Persona\" badge for  …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
+    "date": "2026-10-20T14:18:37.000Z"
+  },
+  {
+    "title": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
+    "summary": "Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap. When the app detects a person, or a group of people, have their eyes closed in a photo it will automatically present users with a new Open Eyes Quick Action that appears as an icon over the image providing easy access to the new feature.\nBeing able to easily save an otherwise great photo by opening a subject's eyes has been a feature in Adobe's Photoshop Elements for nearly a decade, but as DPReview points out, Elements sources the replacement from another phot …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair",
+    "date": "2026-10-20T13:06:44.000Z"
+  },
+  {
     "title": "The fossil fuel comeback is here",
     "summary": "The US is building more fossil fuel infrastructure than it has in a decade while renewable energy growth slows down, a new report shows.\nElectricity demand is also climbing faster than it has in more than a decade with more data centers, factories, and electric vehicles plugging into the grid. Despite those growing demands, the Trump administration has sought to hobble the wind and solar industries in favor of fossil fuels.\nAmerica's energy landscape is already shifting as a result, according to the report published last week by the nonprofit Environmental Defense Fund and research firm Atlas Public Policy. If all the gas projects in the d …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
@@ -46,18 +58,6 @@
     "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won't play nice?\nIn recent weeks, users of services like Meta's Muse, xAI's Grok, OpenAI's Dots, and Instinct have reported blocks preventing their AI agents from performing tasks across top websites. Yelp told TechCrunch that it only allows AI agents that pay for its data licensing program, while Delta Air Lines is preventing them from booking ticket …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
     "date": "2026-10-17T13:00:00.000Z"
-  },
-  {
-    "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
-    "summary": "Nvidia’s new SoC is available in Windows laptops from six different manufacturers. We’ve collectively tested four of them so far. | Photo: Antonio G. Di Benedetto / The Verge\t\n\nNvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the best from Apple, Intel, AMD, and Qualcomm. It has loads of cores, Nvidia RTX Blackwell graphics, and enough power and unified memory to run sizable local AI models.\nThe flagship placement is inside Microsoft's Surface Laptop Ultra with a staggering 128GB of unified memory, which our own Tom Warren fully reviewed. Sean Hollister has been testing a 64GB version of the Asus …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
-    "date": "2026-10-16T15:00:00.000Z"
-  },
-  {
-    "title": "Meta’s new terms may allow it to train AI on news sites for free",
-    "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30th, say Meta can use this outside content to \"develop, improve, research,\" and \"train\" its AI products.\nWhile Meta spokesperson Daniel Roberts says that the company is just \"consolidating\" its commercial and self-serve ad terms, legal experts tell Nieman Lab that this could allow Meta \"to argue its commercial terms supersede other blocking instructions,\" like a site's robots.txt file. That could …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
-    "date": "2026-10-16T14:02:40.000Z"
   },
   {
     "title": "'Welcome to the AGI era': OpenAI launches GPT-6 Astra",
