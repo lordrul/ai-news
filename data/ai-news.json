@@ -1,5 +1,11 @@
 [
   {
+    "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
+    "summary": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica. In a report published this week, researchers at the security firm Claroc say they found more than 6,800 Muse links through public DNS records.\n\"People have the ability to share specific Muse artifacts, which creates a page that can be accessed by those with the link,\" Muse spokesperson Tracy Clayton says in an emailed statement to The Verge. \"However, we've paused this functionality while we review this report and consider changes to how these links can be dis …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+    "date": "2026-10-20T18:07:34.000Z"
+  },
+  {
     "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
     "summary": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday that says Spotify has also made changes to its recommendation system to highlight more music made by human artists.\n\"Our editors hold the same standard and don't program content identified as slop or spam,\" Spotify says. \"Since we made these changes, we've seen a marked decrease in listener concerns about this content showing up in recommendations.\" \nThough Spotify has stopped short of mandating labels on all AI tracks, it launched an \"AI Persona\" badge for  …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
@@ -52,12 +58,6 @@
     "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page:\n… Meta may use any content from such domains, web pages, or URLs to provide, develop, improve, research, train, and maintain the integrity of, the Meta Company Products, services, and features provided under these Commercial Terms and any other applicable supplemental terms.\nMany, including Neiman Lab and James Grimmelmann, a professor of digital and information law at Cornell, interpreted it as an  …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
     "date": "2026-10-17T15:04:36.000Z"
-  },
-  {
-    "title": "Websites are closing their doors to AI agents",
-    "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won't play nice?\nIn recent weeks, users of services like Meta's Muse, xAI's Grok, OpenAI's Dots, and Instinct have reported blocks preventing their AI agents from performing tasks across top websites. Yelp told TechCrunch that it only allows AI agents that pay for its data licensing program, while Delta Air Lines is preventing them from booking ticket …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-    "date": "2026-10-17T13:00:00.000Z"
   },
   {
     "title": "'Welcome to the AGI era': OpenAI launches GPT-6 Astra",
