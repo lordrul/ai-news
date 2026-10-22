@@ -1,5 +1,11 @@
 [
   {
+    "title": "Eiliko maker says it&#8217;s hiring an ‘independent security firm’ after Verge report on its insecure robots",
+    "summary": "The Eiliko robot toy. | Photo by Sean Hollister / The Verge\t\n\nEiliko, a cute robot charm you can hang on your bag with built-in AI conversations, turned out to be a security nightmare. It told owners that \"your secrets are safe with me,\" but hackers could easily read complete transcripts of everything we told the toy, and that was just the beginning. The Verge and security researcher Sammy Azdoufal spent over a month trying to get in contact with the company, including emails to Energize Lab CEO and founder Shaw Yeung. Nobody would answer our questions.\nNow, the company is finally breaking its silence, though its response leaves something to be desired.\nView Link\n\"We have confirmed the core issues ide …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/news/1015824/eiliko-energize-lab-statement-on-robot-hack-breach",
+    "date": "2026-10-22T11:00:00.000Z"
+  },
+  {
     "title": "Data centers could erase decades of air quality gains",
     "summary": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI.\nNew and proposed data centers are demanding a tremendous amount of electricity. How developers and utilities meet that demand - with gas turbines or renewable energy - will determine just how dirty things will get. So far, though, things are looking grim.\nTech companies and data center developers are devising new ways to get enough electricity, including building out their own power sources. But if all planned data center projects were to plug into  …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
@@ -52,12 +58,6 @@
     "summary": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica. In a report published this week, researchers at the security firm Claroc say they found more than 6,800 Muse links through public DNS records.\n\"People have the ability to share specific Muse artifacts, which creates a page that can be accessed by those with the link,\" Muse spokesperson Tracy Clayton says in an emailed statement to The Verge. \"However, we've paused this functionality while we review this report and consider changes to how these links can be dis …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
     "date": "2026-10-20T18:07:34.000Z"
-  },
-  {
-    "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
-    "summary": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday that says Spotify has also made changes to its recommendation system to highlight more music made by human artists.\n\"Our editors hold the same standard and don't program content identified as slop or spam,\" Spotify says. \"Since we made these changes, we've seen a marked decrease in listener concerns about this content showing up in recommendations.\" \nThough Spotify has stopped short of mandating labels on all AI tracks, it launched an \"AI Persona\" badge for  …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
-    "date": "2026-10-20T14:18:37.000Z"
   },
   {
     "title": "'Welcome to the AGI era': OpenAI launches GPT-6 Astra",
