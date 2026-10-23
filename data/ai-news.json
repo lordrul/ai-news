@@ -1,5 +1,17 @@
 [
   {
+    "title": "Meta delays new business terms after publisher pushback on AI scraping",
+    "summary": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company. In a statement to The Verge, Meta spokesperson Daniel Roberts says the terms will go into effect on November 20th \"to allow more time for us to explain to our partners and stakeholders what's changing and what's not.\"\nThe business terms, which were originally supposed to go into effect on October 30th, appeared to give Meta permission to freely scrape the new sites that use its platforms, while using the material for AI training. Though Meta u …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+    "date": "2026-10-23T14:47:41.000Z"
+  },
+  {
+    "title": "Retro gaming is being overrun with AI",
+    "summary": "Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality.  Over the past month or so, these kinds of unexpected projects have gone viral with incredible frequency thanks to new AI tools, as hobbyists take apart games and then rebuild them for new platforms. But while AI has supercharged the pace of these ports, it's also tearing apart tight-knit communities dedicated to preserving games.\nDecomps and recomps - shorthand for decompile and recompile - are a form of reverse engineering that involves breaking a game down to …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
+    "date": "2026-10-23T12:00:00.000Z"
+  },
+  {
     "title": "Canva’s first AI image model plans designs before generating them",
     "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for \"greater precision, consistency and control,\" according to an announcement on Thursday.\nCanva Craft can generate images at up to 2K resolution and in more than 30 aspect ratios. In addition to generating social media posts and marketing content, it's also supposed to create realistic scenes, digital art, environmental imagery, and more. The model's two-stage sy …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
@@ -46,18 +58,6 @@
     "summary": "The Nintendo Switch 2 has apparently been jailbroken, and a modder has already shown the console running a custom version of Mario Kart World featuring new playable characters like Cinnamoroll, the red Angry Bird, Peter Griffin, and Steve from Minecraft.\n\n\ni jailbroke the nintendo switch 2\nso i modded cinnamoroll, peter griffin, hatsune miku, and more into Mario Kart World, a switch 2 exclusive\nnow watch my friends and i get cooked by bots\nlearn more and get the exploit https://t.co/ykjgyfrFRp pic.twitter.com/BOcFhejRz1\n- pepsipu (@pepsipu) October 22, 2026\n\nOpenAI's Codex helped make this \"ns2jb\" jailbreak, according to Sammy Hajhamid, aka \"pe …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai",
     "date": "2026-10-22T17:21:31.000Z"
-  },
-  {
-    "title": "Wildwood’s director says AI is ‘antithetical to everything that we are at this studio’",
-    "summary": "Wildwood is the most ambitious film yet from Laika, the stop-motion studio best known for the likes of Coraline and ParaNorman. It's a sprawling fantasy adventure that took five years to complete. The process involved more 230 puppets - including 36 of the main character Prue alone - which were brought to life by a team of 49 animators. All told, more than 1,000 artists worked on the film in some form. The painstaking process that goes into making a Laika film offers a distinct counterpoint to the instant progress promised by generative AI tools.\nRecently Wildwood director and Laika CEO Travis Knight joined a chorus of influencer filmmakers …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion",
-    "date": "2026-10-22T16:16:15.000Z"
-  },
-  {
-    "title": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
-    "summary": "It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal disclosures show.\nNvidia spent the most of the group at $2.2 million, followed by Anthropic's $2.1 million and OpenAI's $1.5 million. Compared to other Big Tech companies with long-established presences in Washington, the sums aren't out of the ordinary. Microsoft, for example, has spent at least $2 million a quarter going back to 2021, and Google regularly spends over $3 million, including this quarter. But it's a clear signal that the three AI firms recognize how important shaping policy …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
-    "date": "2026-10-22T15:50:30.000Z"
   },
   {
     "title": "'Welcome to the AGI era': OpenAI launches GPT-6 Astra",
