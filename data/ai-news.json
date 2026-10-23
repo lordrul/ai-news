@@ -1,5 +1,11 @@
 [
   {
+    "title": "Canva’s first AI image model plans designs before generating them",
+    "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for \"greater precision, consistency and control,\" according to an announcement on Thursday.\nCanva Craft can generate images at up to 2K resolution and in more than 30 aspect ratios. In addition to generating social media posts and marketing content, it's also supposed to create realistic scenes, digital art, environmental imagery, and more. The model's two-stage sy …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+    "date": "2026-10-22T21:51:25.000Z"
+  },
+  {
     "title": "Meta&#8217;s AI could still scrape news sites, legal experts say",
     "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to restrict the 'associated with your products or services' [language] that would let Meta scrape entire sites,\" James Grimmelmann, a professor of digital and information law at Cornell Law School, tells Nieman Lab.\nInitially, Meta's new terms for business accounts appeared to give the company permission to train its AI on news sites. The terms, which go into effect October 30th, stated that Meta \"may use any  …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
@@ -52,12 +58,6 @@
     "summary": "It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal disclosures show.\nNvidia spent the most of the group at $2.2 million, followed by Anthropic's $2.1 million and OpenAI's $1.5 million. Compared to other Big Tech companies with long-established presences in Washington, the sums aren't out of the ordinary. Microsoft, for example, has spent at least $2 million a quarter going back to 2021, and Google regularly spends over $3 million, including this quarter. But it's a clear signal that the three AI firms recognize how important shaping policy …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
     "date": "2026-10-22T15:50:30.000Z"
-  },
-  {
-    "title": "PHP: The three little letters wreaking havoc across the web",
-    "summary": "Two vulnerabilities found in the programming language PHP put enormous swaths of the internet in danger.\nBy some accounts, up to 70 percent of websites use PHP in some capacity. It powers Wikipedia, WordPress, Drupal, and a host of other popular sites and platforms, including DeviantArt and 4Chan, which were temporarily shut down after the vulnerabilities were disclosed. Even governments weren’t immune.\nBut it’s not as simple as updating a few servers. The vulnerability exists in every version of PHP dating back roughly 20 years, many of which are no longer supported. That means some older sites and services that are no longer actively maintained are at risk, leaving them with little option but to permanently shut down.\nHere’s all the latest developments in what security firm Wiz has called “among the most severe vulnerabilities discovered … in software history.”\nThe disastrous PHP vulnerabilities were exploited days before the patch\n\t\t\t\nThe Internet Archive was briefly forced offline because of PHP.\n\t\t\t\nTwo old-school Japanese mobile games are shutting down over the PHP exploit.\n\t\t\t\nThe PHP2Shell exploit hit Cloudflare hard.\n\t\t\t\nPHP: The three letters that shut down sites all over the internet today\n\t\t\t\nGPT‑5.6 Sol was used to identify critical PHP flaw.\n\t\t\t\nA critical PHP vulnerability may take websites down today",
-    "url": "https://www.theverge.com/tech/1016574/php2shell-security-vulnerability-websites-down",
-    "date": "2026-10-22T15:12:27.000Z"
   },
   {
     "title": "'Welcome to the AGI era': OpenAI launches GPT-6 Astra",
