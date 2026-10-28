@@ -1,5 +1,41 @@
 [
   {
+    "title": "Akai is embracing vibe-coded mods with an open-source MPC",
+    "summary": "The MPC Sample Key looks like the MPC Sample just with keys instead of pads. | Image: Akai\t\n\nThe MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware developers by giving them early access to the device, which will have open-source firmware. \nIt will likely run some version of the same software found on the MPC Sample, but with tweaks to accommodate the traditional keyboard, pitch, and mod wheels. Unlike the higher-end MPC Key 37, however, the Sample Key doesn't have pads. Instead, you play back samples with the keys.\n\n\n  \n \n  \n \n\n\n \n\n View this post on Instagram\n\n \n \n \n \n\n \n \n\n \n \n \n\n \n \n \n\n\n\nI …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+    "date": "2026-10-28T21:34:04.000Z"
+  },
+  {
+    "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+    "summary": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-6 Astra trailing behind.\nThe new Gemini 4 Carbon model offers improvements over Argon, which Google released earlier this month. It's currently only available to a select group of cybersecurity defense companies, but it will eventually expand to other partners in its Fairwind Program.\nThe company says Carbon reflects the \"pace at which we're pus …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+    "date": "2026-10-28T20:03:00.000Z"
+  },
+  {
+    "title": "Microsoft is ending Copilot support on smart TVs",
+    "summary": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year, according to a report by Windows Central.\nThe news comes not from an official announcement from LG, Samsung, or Microsoft, but from an on-screen notification that appeared on Windows Central's Zac Bowden's webOS-powered LG TV earlier today. \"Microsoft has recently decided to end support for Copilot functionality on all TVs, including the Copilot-enabled feature available on our LG TVs. As a result, the Copilot-enabled feat …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
+    "date": "2026-10-28T18:36:26.000Z"
+  },
+  {
+    "title": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
+    "summary": "Following improvements made to Chrome's enhanced autofill last year that included your name, passport number, email address, and physical addresses sourced from your Google Accounts and services like Google Wallet, the feature is now expanding. Starting today, Chrome's enhanced autofill will use Gemini with Personal Intelligence to suggest information sourced from your Gmail, potentially saving you from having to search for confirmation emails, receipts, or shipping updates yourself.\nThe expanded autofill capabilities can retrieve details such as a shipment's tracking number, travel details like a flight booking number or hotel reservation, …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
+    "date": "2026-10-28T17:00:00.000Z"
+  },
+  {
+    "title": "Meta says it&#8217;ll probably delay its controversial new business terms again",
+    "summary": "Meta says it may push the implementation of its new business terms past November 20th as it faces backlash from publishers over concerns about AI training. In a post on X, Meta communications head Andy Stone said the company does \"not plan to make policy changes without a full consultation with industry groups and leaders.\"\nThe new business terms, which were supposed to take effect on October 30th, initially appeared to give Meta permission to train its AI models on the news sites that use Facebook and Instagram. Meta later changed its policies to remove language indicating that it could \"train\" its products on content scraped from these si …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
+    "date": "2026-10-28T16:15:30.000Z"
+  },
+  {
+    "title": "xAI is buying out homeowners who promise not to sue over data center noise",
+    "summary": "xAI’s Southaven, Mississippi data center. | Photo by Brandon Dill / AFP via Getty Images\t\n\nA subsidiary of Elon Musk's xAI is offering to buy up homes in a Mississippi neighborhood, as long as residents don't join a lawsuit targeting the company's nearby data center and power plant, according to a report from The Guardian. A realtor going door-to-door in the Southaven neighborhood reportedly told one resident that xAI plans to purchase 418 homes, adding that 18 homeowners already have plans to sell. People who rent homes in the area report they're already being forced out, with 60 days' notice after their landlords agreed to sell.\nA recent report from the Mississippi Free Press includes a letter received by several households rec …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
+    "date": "2026-10-28T14:44:00.000Z"
+  },
+  {
     "title": "Voters in Texas agree: They hate data centers",
     "summary": "Ask Texas NAACP president Gary Bledsoe what it's been like to see data center developers descend upon Austin and its surrounding suburbs and he can rattle off project after project facing opposition from locals.\nThere's the fight in Taylor over plans to build a data center at a site that's supposed to be a park. Temple, around 40 miles away, is another sore spot, Bledsoe says. The mayor and City Council members there face recall attempts over data center developments. And some 30 miles outside of Austin, San Marcos became the first city in all of Texas to ban data centers.\nNowhere in the world are data centers growing more explosively than …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas",
@@ -22,42 +58,6 @@
     "summary": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home. The series is deeply fantastical, yet it plays with some of the ideas that have come to dominate the conversation about real-world generative artificial intelligence, exploring whether we should look at thinking machines as people and if AI truly poses the kind of existential danger that should keep us up at night. It's also a reminder how aggressively Silicon Valley has used the trappings of science fiction to sell us on its AI  …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
     "date": "2026-10-27T17:30:00.000Z"
-  },
-  {
-    "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
-    "summary": "Anthropic cofounder and CEO Dario Amodei. | Bloomberg via Getty Images\t\n\nAnthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns may have little patience for costly safety measures that slow products on their way to market.\nSam Altman, the CEO of Anthropic's archrival, OpenAI, has cited investor pressures as one reason the company is not pursuing an IPO this year. Anthropic hopes it can resist investor pressures with a mind-boggling governance structure.\n …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
-    "date": "2026-10-27T16:51:22.000Z"
-  },
-  {
-    "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
-    "summary": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Window can pull information from your online portfolio or LinkedIn page to paste your work history into a job application.\nYou can try out this feature by clicking into a form with at least four text fields. From there, you'll see an option to \"Fill from sources,\" which will show all of the tabs Firefox will draw from. You can then select or deselect tabs that you want Firefox to use, and the browser will generate suggestions based on the informati …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
-    "date": "2026-10-27T16:14:18.000Z"
-  },
-  {
-    "title": "Google’s next Genie AI model generates more realistic experiences",
-    "summary": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, and uses Gemini 3.8 Flash under the hood to help with its simulations. It also can create experiences that are about two minutes long, up from one minute for the previous Genie 3 model.\nGoogle is pitching Genie 4 as a tool that could be helpful for things like pre-visualization for filmmakers, prototyping game ideas, and making training scenarios for robots. But the …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
-    "date": "2026-10-27T16:00:00.000Z"
-  },
-  {
-    "title": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
-    "summary": "Apple is bringing an AI assistant to its suite of productivity apps, including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document's context to perform tasks like designing, animating, and refining slides in Keynote.\nIn Pages, Apple says the AI assistant can draft, restructure, and tweak written content. It can also calculate, visualize, and organize data in Numbers, while suggesting chart types and building custom tables. \nKeynote, Pages, and Numbers now support the Model Context Protocol on macOS 27 or later, allowing third-party AI agents to plug into the apps. The AI  …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
-    "date": "2026-10-27T13:50:51.000Z"
-  },
-  {
-    "title": "Data center backlash is uniting America",
-    "summary": "If there's one issue that seems to activate all kinds of voters in 2026, it's data centers. The rapid buildout of these massive server storage facilities - and the infrastructure construction and expenses that come with them - has sparked local opposition in communities across the country and become a major issue in many congressional and gubernatorial campaigns.\nAt the same time, tech money has been pouring into many of these races. Leading the Future, a super PAC backed by venture capitalist Marc Andreessen and OpenAI President Greg Brockman, has already spent $45 million in a year. And Public First Action, an Anthropic-backed group that  …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
-    "date": "2026-10-27T10:00:00.000Z"
-  },
-  {
-    "title": "OpenAI announces three big science discoveries and a new way to work with academics",
-    "summary": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics. What's different this time is the choice to have external experts that OpenAI describes as \"shepherds\" guiding the results in computer science and physics, while for the math problem it says that they advised it to release the AI output for researchers to work through their own explanations. \nOpenAI results added to GitHub today:\nLocal smoothing for the Euclidean wave equation. The proof uses an auxiliary par …\n\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
-    "date": "2026-10-26T23:34:58.000Z"
   },
   {
     "title": "'Welcome to the AGI era': OpenAI launches GPT-6 Astra",
