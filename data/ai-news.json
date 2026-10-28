@@ -1,5 +1,17 @@
 [
   {
+    "title": "Voters in Texas agree: They hate data centers",
+    "summary": "Ask Texas NAACP president Gary Bledsoe what it's been like to see data center developers descend upon Austin and its surrounding suburbs and he can rattle off project after project facing opposition from locals.\nThere's the fight in Taylor over plans to build a data center at a site that's supposed to be a park. Temple, around 40 miles away, is another sore spot, Bledsoe says. The mayor and City Council members there face recall attempts over data center developments. And some 30 miles outside of Austin, San Marcos became the first city in all of Texas to ban data centers.\nNowhere in the world are data centers growing more explosively than …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas",
+    "date": "2026-10-28T12:00:00.000Z"
+  },
+  {
+    "title": "Meta quietly launched an &#8216;AI pet journal&#8217; app",
+    "summary": "Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations.\nAccording to its Apple and Play Store listings, the \"16-bit pet care game\" is not really a game, but \"a daily journal disguised as a pet.\" Users should talk, not type, with their pets, the description says, as well as play \"cozy games\" like stacking groceries or word games. The Play store description says:\nA little friend that listens. A cozy world that's yours. Waddle World is a cozy 16-bit world where your pixel pet lives. Hatch a virtual pet, visit whenever you like, and let it …\n\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
+    "date": "2026-10-28T11:27:30.000Z"
+  },
+  {
     "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
     "summary": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to The Verge are growing increasingly tired of the company's antics.\nIt has been a turbulent few months between OpenAI and mathematicians, who are still grappling with the hundreds of preprints unceremoniously dumped on them at the start of October. This time, OpenAI says it is working with expert \"shepherds\" to decide how best to share its latest breakthroughs.\nAll three results conc …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
@@ -46,18 +58,6 @@
     "summary": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics. What's different this time is the choice to have external experts that OpenAI describes as \"shepherds\" guiding the results in computer science and physics, while for the math problem it says that they advised it to release the AI output for researchers to work through their own explanations. \nOpenAI results added to GitHub today:\nLocal smoothing for the Euclidean wave equation. The proof uses an auxiliary par …\n\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
     "date": "2026-10-26T23:34:58.000Z"
-  },
-  {
-    "title": "Anthropic is burning gas to feed the AI boom",
-    "summary": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious.\n\n\"Competition for access to electrical supply and data center locations with adequate power availability is intense.\"\n\nIn documents filed with the US Securities and Exchange Commission Monday, Anthropic acknowledges that data centers are becoming increasingly reliant on \"natural gas\" - the fossil fuel industry's marketing term for what is primarily methane - leaving the company's AI data center buildout vulnerable to rising fuel costs and existing supply chain constraints. And in a possible catch-22, Anthropic admits that rising gl …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
-    "date": "2026-10-26T21:45:31.000Z"
-  },
-  {
-    "title": "The RealReal won’t let AI agents hog designer clothing",
-    "summary": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site.\nThe change comes days after The Verge reported that an AI agent could be used to take advantage of The RealReal's item reserve system. On the retailer's website, an item goes \"on hold\" and is unavailable for other customers to buy for 20 minutes once it's placed in a user's shopping cart. Using Meta's Muse, The Verge was able to instruct the AI agent to continuously re-add The RealReal listings in a shopping cart as soon as the 20-minute hold had expired, effectively block …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
-    "date": "2026-10-26T17:30:55.000Z"
   },
   {
     "title": "'Welcome to the AGI era': OpenAI launches GPT-6 Astra",
