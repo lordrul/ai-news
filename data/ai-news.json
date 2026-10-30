@@ -1,5 +1,17 @@
 [
   {
+    "title": "Maine’s data center revolt will decide who controls the Senate",
+    "summary": "Maine Sen. Susan Collins, a Republican, was midway through defending her record during the final debate of the midterms when an audience member cut her short.\n\"I'm terrified,\" a man shouted. \"AI data centers are destroying our climate. They are poisoning our water.\"  Collins brushed off the outburst, tying the man to her Democratic challenger, Troy Jackson. But the fear echoing through the auditorium wasn't so easily dismissed. Just days before voters head to the polls, the rapid expansion of resource-hungry data centers has exploded into one of Maine's most volatile campaign issues.\nMaine drew national headlines in April when the state Le …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
+    "date": "2026-10-30T11:00:00.000Z"
+  },
+  {
+    "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+    "summary": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling, it says, could either deprive Wikipedians of useful AI-based tools or endanger the open web.\nIn an amicus brief filed Friday, the nonprofit behind Wikipedia weighed in on a set of lawsuits pitting publishers including The New York Times against OpenAI and Microsoft, taking neither side. \"Wikimedia is concerned that the parties' positions in this case push for overbroa …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+    "date": "2026-10-30T09:00:00.000Z"
+  },
+  {
     "title": "You can generate and edit Google Docs files directly in Gemini chats now",
     "summary": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for all Gemini users, and while PDF previews/editing works on both the web and mobile, all other file formats are only in the web version for now.\nGoogle added support for generating and downloading files in Gemini earlier this year, but now you can tweak those files without leaving the Gemini app. Google says you can expand documents to edit them in full-screen mode and highlight text in files to ask Gemini questions or prompt …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
@@ -46,18 +58,6 @@
     "summary": "The MPC Sample Key looks like the MPC Sample just with keys instead of pads. | Image: Akai\t\n\nThe MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware developers by giving them early access to the device, which will have open-source firmware. \nIt will likely run some version of the same software found on the MPC Sample, but with tweaks to accommodate the traditional keyboard, pitch, and mod wheels. Unlike the higher-end MPC Key 37, however, the Sample Key doesn't have pads. Instead, you play back samples with the keys.\n\n\n  \n \n  \n \n\n\n \n\n View this post on Instagram\n\n \n \n \n \n\n \n \n\n \n \n \n\n \n \n \n\n\n\nI …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
     "date": "2026-10-28T21:34:04.000Z"
-  },
-  {
-    "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
-    "summary": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-6 Astra trailing behind.\nThe new Gemini 4 Carbon model offers improvements over Argon, which Google released earlier this month. It's currently only available to a select group of cybersecurity defense companies, but it will eventually expand to other partners in its Fairwind Program.\nThe company says Carbon reflects the \"pace at which we're pus …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
-    "date": "2026-10-28T20:03:00.000Z"
-  },
-  {
-    "title": "Microsoft is ending Copilot support on smart TVs",
-    "summary": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year, according to a report by Windows Central.\nThe news comes not from an official announcement from LG, Samsung, or Microsoft, but from an on-screen notification that appeared on Windows Central's Zac Bowden's webOS-powered LG TV earlier today. \"Microsoft has recently decided to end support for Copilot functionality on all TVs, including the Copilot-enabled feature available on our LG TVs. As a result, the Copilot-enabled feat …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
-    "date": "2026-10-28T18:36:26.000Z"
   },
   {
     "title": "'Welcome to the AGI era': OpenAI launches GPT-6 Astra",
