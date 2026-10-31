@@ -1,5 +1,11 @@
 [
   {
+    "title": "I built an AI Tamagotchi before Meta could",
+    "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi.\nBut I won't be buying one, because we have Muse Charm at home. It cost just $50, and I've decided the learning experience was worth it.\nView Link\nMy version doesn't sport cameras or a 5G cellular radio, but it really talks to Muse and has cute avatars, too! It doubles as a pocket watch and a remote camera viewfinder, and it can (theoretically) control my smart home.\nOr at least it can if you inject a lot of extra vibe code.\nWeeks …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+    "date": "2026-10-31T16:05:00.000Z"
+  },
+  {
     "title": "Apple Intelligence is finally coming to China with iOS 27.3",
     "summary": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for December.\nThis launch doesn't bring the new Siri AI to China. Instead, Apple is launching several of its earlier Apple Intelligence features like notification summaries, real-time translation, rewriting and proofreading tools, visual intelligence, and removing objects from photos. Apple also says it has worked with Ailbaba to add support for its Q …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
@@ -52,12 +58,6 @@
     "summary": "Maine Sen. Susan Collins, a Republican, was midway through defending her record during the final debate of the midterms when an audience member cut her short.\n\"I'm terrified,\" a man shouted. \"AI data centers are destroying our climate. They are poisoning our water.\"  Collins brushed off the outburst, tying the man to her Democratic challenger, Troy Jackson. But the fear echoing through the auditorium wasn't so easily dismissed. Just days before voters head to the polls, the rapid expansion of resource-hungry data centers has exploded into one of Maine's most volatile campaign issues.\nMaine drew national headlines in April when the state Le …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
     "date": "2026-10-30T11:00:00.000Z"
-  },
-  {
-    "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
-    "summary": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling, it says, could either deprive Wikipedians of useful AI-based tools or endanger the open web.\nIn an amicus brief filed Friday, the nonprofit behind Wikipedia weighed in on a set of lawsuits pitting publishers including The New York Times against OpenAI and Microsoft, taking neither side. \"Wikimedia is concerned that the parties' positions in this case push for overbroa …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
-    "date": "2026-10-30T09:00:00.000Z"
   },
   {
     "title": "'Welcome to the AGI era': OpenAI launches GPT-6 Astra",
