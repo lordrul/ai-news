@@ -1,5 +1,11 @@
 [
   {
+    "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+    "summary": "Anthropic CEO Dario Amodei. | Photo: Jason Henry/Bloomberg via Getty Images\t\n\nAnthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down.\nThat's according to a new report published Thursday by the AI safety research organization METR, following an 11-week investigation inside the company, as part of a report evaluating its AI research and development. The probe is separate from a program offering safety researchers \"employee-like\" access to systems in the wake of high-profile hacking incidents over the summer.\nThe findings offer some of the clearest evidence yet of AI …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+    "date": "2026-11-07T12:30:00.000Z"
+  },
+  {
     "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
     "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising  $122 billion from investors in March at a valuation of $852 billion.\nEchoing FT and Wall Street Journal reports from last week, Bloomberg says OpenAI is still pursuing additional investments that could increase the amount to $20 billion, and that it had initially hoped to raise as much as $30 billion at a higher valuation of $1.4 trillion. That was before tech stocks dropped, and the results of the midterms showed how much public o …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
@@ -52,12 +58,6 @@
     "summary": "Members of the action group Geef Tegengas put a banner on a crane during a protest. | Image: Getty Images\t\n\nProtesters have broken into a construction site of a new Microsoft data center in Amsterdam this morning. Members of the Geef Tegengas group helped organize the protest against the construction of three 85-meter data center towers in the outskirts of Amsterdam.\nReuters reports that around 100 people made it into the construction site, with some scaling a crane to place a \"fuck AI\" banner. Protesters also unfurled a \"Microsoft powers genocide\" banner on the construction site, and chanted \"Microsoft has got to go\" and \"free Palestine.\"\nOpposition to the new data center in Amsterdam comes more than a year after the city banned new data center …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
     "date": "2026-11-06T11:55:19.000Z"
-  },
-  {
-    "title": "OpenAI is stepping back from NDAs for data center projects",
-    "summary": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use non-disclosure agreements (NDAs) with public officials.\nMany data center projects have come under scrutiny for relying on NDAs to hide discussions between developers and local officials. However, OpenAI says it is now allowing \"only narrow protections covering legitimate security information, trade secrets, or proprietary or competitively sensitive information.\" In October, Amazon announced it would no longer u …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
-    "date": "2026-11-06T00:37:56.000Z"
   },
   {
     "title": "'Welcome to the AGI era': OpenAI launches GPT-6 Astra",
