@@ -1,7 +1,43 @@
 [
   {
+    "title": "The US is winning the AI race. Jensen Huang could have blown it",
+    "summary": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people. He also wears a cool leather jacket.\nWhich makes Huang's admission that he had an affair with a woman suspected of being a Chinese spy - reportedly while her spying was known to US intelligence and even President Donald Trump - all the more shocking. The fallout goes well beyond his marriage, his reputation, or Nvidia itself. Experts tell The Verge the incident threate …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+    "date": "2026-11-10T19:04:05.000Z"
+  },
+  {
+    "title": "ChatGPT is getting verified AI ‘Business Agents’",
+    "summary": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesses in the US, is launching as part of a suite of business-focused features in ChatGPT being announced today in beta.\nYou can start talking with a Business Agent if a business that has created one appears in a response from ChatGPT. While chatting with a custom agent, you can ask about a business's offerings and ask follow-up questions, like asking about differences between two different products. Businesses can specify a Busi …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+    "date": "2026-11-10T18:00:00.000Z"
+  },
+  {
+    "title": "The indie game community is in disarray over AI and Big Walk",
+    "summary": "Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in \"any capacity.\" Soon after, the developer of indie hit Big Walk has published a statement saying it \"sparingly\" used AI in the \"final stretch\" of the game's development to \"help work through difficult technical challenges and bugs.\"\nAccording to the jurors' statement, a copy of which was posted by Austin Walker, while this year's IGF entries have been \"incredible,\" there has been \"a significant increase\" in the number of games \"developed with generative AI tools,\" leading to \"fairly intense discussion a …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
+    "date": "2026-11-10T17:32:47.000Z"
+  },
+  {
+    "title": "Anthropic has its own AI-powered office suite now",
+    "summary": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs - like OpenAI, SpaceXSI, and Meta - to copy its strategies. Earlier this year, Claude Code went through its own particular hype cycle. And now, Anthropic is trying to expand its footprint to other knowledge workers with an AI-powered suite of office tools.\nAt an event in San Francisco on Tuesday, Anthropic unveiled new tools for non-technical workers who spend a lot of time attending meetings, brainstorming new ideas, and analyzing metrics: Claude Meetings, Claude Sheets, and Claude W …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
+    "date": "2026-11-10T17:30:00.000Z"
+  },
+  {
+    "title": "eBay appears to have shut the door on third-party AI agents",
+    "summary": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race.\nA reader tells The Verge that for several weeks he's had his Muse agent browse and curate a daily digest of watches for sale on platforms like eBay, including a link to listings, price, shipping details, and relevant notes about condition or style. This weekend, though, Muse was unable to pull any links or details from eBay, with Muse saying it was blocked from the site. The Verge was able to re-create the experience using other search requests, and in some cases we found that Muse instead directed users …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
+    "date": "2026-11-10T16:20:30.000Z"
+  },
+  {
+    "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+    "summary": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago. Google claims Carbon is its \"strongest model\" yet, and capable of competing with the very best systems from Anthropic and OpenAI.\nGoogle says Gemini 4 Carbon \"pushes the frontier even further\" than Argon, referring to the company's other frontier model that launched only last month. The company said Argon will likely remain \"the ideal choice for the majority of software engineering and knowledge work,\" but that Carbon is \"built for tasks that test the limits of a model's intellige …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+    "date": "2026-11-10T16:00:00.000Z"
+  },
+  {
     "title": "Anthropic targets $1.4 trillion IPO",
-    "summary": "Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations. Its IPO price is expected to be between $70.00 and $78.00 per share, which would put its valuation as high as $1.4 trillion, according to the New York Times. The Wall Street Journal reports that according to its sources, Anthropic is \"aiming for its shares to start trading Thursday or Friday next week.\"\nAs Reuters notes, the Anthropic IPO was previously expected to be valued at as much as $2 trillion. As of last week, Anthropic's rival OpenAI was valued at $1.25 trillion.\nThe initial public offering price is exp …\n\nRead the full story at The Verge.",
+    "summary": "Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations. Its IPO price is expected to be between $70.00 and $78.00 per share, which would put its valuation as high as $1.4 trillion, according to the The New York Times. The Wall Street Journal reports that according to its sources, Anthropic is \"aiming for its shares to start trading Thursday or Friday next week.\"\nAs Reuters notes, the Anthropic IPO was previously expected to be valued at as much as $2 trillion. As of last week, Anthropic's rival OpenAI was valued at $1.25 trillion.\nThose lower expectations follow month …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
     "date": "2026-11-10T14:06:54.000Z"
   },
@@ -22,42 +58,6 @@
     "summary": "Ring’s new Drone Cam is a flying indoor security camera.\t\n\nRing is finally shipping a flying indoor drone camera. For real this time. The Ring Drone Cam will arrive on January 27th, 2027, for $249.99, Ring founder Jamie Siminoff said at a launch event in New York City this week. If it does actually ship, it will arrive almost six years after the company announced its first flying camera, the Ring Always Home Cam.\nDesigned to patrol inside your home when you're not there, the Drone Cam is an AI-powered drone that can react to triggers from Ring sensors, such as detecting motion, a door opening, a water leak, or an alarm sounding. When triggered, it flies along preprogrammed routes to a set location, …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot",
     "date": "2026-11-10T13:30:00.000Z"
-  },
-  {
-    "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
-    "summary": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said:\n\"I think when you zoom out and look at production, AI really has the potential to be the biggest creative unlock in modern history. The last time we saw anything close to this was really the, you know, advent of CGI and digital composites in the early 90s. That technology gave birth to amazing stories like Jurassic Park and Terminator 2, and it's hard to imagine that AI is not going to have a more significant i …\n\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
-    "date": "2026-11-10T00:28:49.000Z"
-  },
-  {
-    "title": "What could China get from Jensen Huang?",
-    "summary": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential investor in a wide range of up-and-coming AI companies in recent years, with about $99 billion worth of equity investments in frontier AI labs, neoclouds, infrastructure companies, and more. Its chief executive has even become close with President Donald Trump.\nThis is why, as both cofounder and longtime CEO of Nvidia, Jensen Huang would be a valuable target for a foreign adversary with sig …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
-    "date": "2026-11-09T23:51:58.000Z"
-  },
-  {
-    "title": "Here’s what Trump said he knew about Jensen Huang",
-    "summary": "Jensen Huang and President Trump. | Getty Images\t\n\nPresident Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had been \"​​unfaithful\" to his wife, and the company has opened an investigation into Huang.\nRecent articles from The New York Times indicated that Trump had been aware of a relationship between Huang and Alice Huang, the suspected spy, before information about it became public. In October, The New York Times reported that Trump had been briefed \"roughly a year ago\" on intelligence that Huang and the alleged spy, Alice Huang, ha …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
-    "date": "2026-11-09T23:47:46.000Z"
-  },
-  {
-    "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
-    "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as not only the exec for an AI compute company renting access to Nvidia GPUs, but also a spy for China’s Ministry of State Security.\nIn recent years, Nvidia has become a key part of the Trump administration’s AI push, a central figure in negotiations over potential Chinese access to cutting-edge AI hardware, and a company that has used its now $4 trillion-plus market cap to finance other AI companies, including the “neoclouds” like Coreweave who have been some of its biggest customers.  So far, Nvidia and Jensen Huang have said that they have “no reason to believe that either national security or NVIDIA secrets were compromised,” but that hasn’t settled things as the investigation continues.\n\n\n\t\t\t\t\t\nHere’s what Trump said he knew about Jensen Huang\n\t\t\t\nWhat could China get from Jensen Huang?\n\t\t\t\nThe future of AI hinges on… Jensen Huang’s sex life?\n\t\t\t\nHere’s the full text of Jensen Huang’s memo to Nvidia\n\t\t\t\nNvidia is investigating Jensen Huang’s relationship with an alleged Chinese spy",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-    "date": "2026-11-09T23:07:59.000Z"
-  },
-  {
-    "title": "The global pledge to use AI for climate good is a cruel joke",
-    "summary": "Murat Kurum (left), Turkey’s minister of Environment, Urbanisation and Climate Change; and Chris Bowen, Australia's minister for Climate Change and Energy, raise their hands together at the COP31 UN Climate Change Conference in Antalya, Turkey, on November 9th, 2026. | Photo: AFP via Getty Images\t\n\nAt this point, reading through the latest splashy pledge to use AI for the good of the environment feels like downing a nonalcoholic beer. Admittedly, I'm suspicious from the onset. How can this be good? But I love beer and our planet enough to give it a whirl - and hey, why not try a little harm reduction?\nNegotiators from more than 190 countries around the world are in Antalya, Turkey, this month for the annual United Nations climate summit, called COP31 (the 31st \"Conference of the Parties\" that ratified the UN Framework Convention on Climate Change). Turkey previewed its Antalya Artificial Intelligence Pledge ahead of the convening, inv …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/science/1030252/ai-data-center-climate-pledge-united-nations-cop31",
-    "date": "2026-11-09T21:13:16.000Z"
-  },
-  {
-    "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
-    "summary": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as spotted by 9to5Mac.  It has a built-in AI assistant to do things like \"start a new song, set up a vocal track from a single prompt, or refine an active project.\"\nThese Intelligence Usage Packs, as Apple calls them, will allow users to continue accessing certain Apple Intelligence features that have usage limits because they rely on cloud-based AI models from OpenAI or Google Gemini.  The Usage Packs can only be used  …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
-    "date": "2026-11-09T19:09:58.000Z"
   },
   {
     "title": "'Welcome to the AGI era': OpenAI launches GPT-6 Astra",
