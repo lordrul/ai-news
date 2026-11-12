@@ -1,5 +1,35 @@
 [
   {
+    "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+    "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was with an executive who reports to him, Nvidia's vice president of health care, Kimberly Powell, according to the Times. \nThe Nvidia board will meet as soon as today to decide on Huang's future at the company, according to the Journal. Nvidia did not immediately respond to a request for comment from The Verge.\nHuang and Powell, who are both marri …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+    "date": "2026-11-11T22:44:36.000Z"
+  },
+  {
+    "title": "United won’t let your AI agent book your flight",
+    "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns.\nThe company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses like Doordash. But United is concerned that agents could expose customers' information or make purchases they didn't intend, and potentially skirt federal rules about the kind of information airlines need to share with customers - like having them attest that their bags don't have explosives.\nWhile agents can still show users United flights, they …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+    "date": "2026-11-11T21:54:21.000Z"
+  },
+  {
+    "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+    "summary": "Tabletop isn’t anything to do with D&D or boardgames, but it does make it easier to coordinate with freinds, | Image: Google\t\n\nGoogle has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with workplace management apps like Asana and Monday, but with a built-in AI feature that allows you to vibecode personalized interactive tools by describing them, such as savings trackers, chore charts, event plans, and more.\n\"Just add in your links, files and ideas, then prompt @tabletop - or pick a starter template - to generate custom interactive trip itineraries, dinner polls, expense splitters and tournament brackets,\" Google  …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+    "date": "2026-11-11T16:00:00.000Z"
+  },
+  {
+    "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+    "summary": "A graphic representing Google’s AlphaGenome Atlas. | Image: Google\t\n\nResearchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold important clues to the causes of disease - and point the way to new treatments.\nAlphaGenome 2 is the successor to DeepMind's genome-predicting AI model AlphaGenome, which was released last year. While nearly every cell in the human body carries the same DNA, different types of cells - from heart muscle cells and skin cells to immune cells fighting an infection - switch different genes on and off, and those patterns can change d …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+    "date": "2026-11-11T15:00:00.000Z"
+  },
+  {
+    "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
+    "summary": "Project Screen Test lets you talk with AI-generated characters to shape their personality. | Image: Adobe\t\n\nSome of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being announced today: they can transform images into explorable 3D scenes, design AI characters by talking to them, and turn photo editing into a copy/paste process.\nThe first (and weirdest, in my opinion) is Project Screen Test, which is designed to make AI-generated characters easier to develop and use for video content. Instead of just describing how the character should sound and behave in text prompts, the tool lets you talk to the character and direct them in an a …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
+    "date": "2026-11-11T14:00:00.000Z"
+  },
+  {
     "title": "The US is winning the AI race. Jensen Huang could have blown it",
     "summary": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people. He also wears a cool leather jacket.\nWhich makes Huang's admission that he had an affair with a woman suspected of being a Chinese spy - reportedly while her spying was known to US intelligence and even President Donald Trump - all the more shocking. The fallout goes well beyond his marriage, his reputation, or Nvidia itself. Experts tell The Verge the incident threate …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
@@ -28,36 +58,6 @@
     "summary": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race.\nA reader tells The Verge that for several weeks he's had his Muse agent browse and curate a daily digest of watches for sale on platforms like eBay, including a link to listings, price, shipping details, and relevant notes about condition or style. This weekend, though, Muse was unable to pull any links or details from eBay, with Muse saying it was blocked from the site. The Verge was able to re-create the experience using other search requests, and in some cases we found that Muse instead directed users …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
     "date": "2026-11-10T16:20:30.000Z"
-  },
-  {
-    "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
-    "summary": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago. Google claims Carbon is its \"strongest model\" yet, and capable of competing with the very best systems from Anthropic and OpenAI.\nGoogle says Gemini 4 Carbon \"pushes the frontier even further\" than Argon, referring to the company's other frontier model that launched only last month. The company said Argon will likely remain \"the ideal choice for the majority of software engineering and knowledge work,\" but that Carbon is \"built for tasks that test the limits of a model's intellige …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
-    "date": "2026-11-10T16:00:00.000Z"
-  },
-  {
-    "title": "Anthropic targets $1.4 trillion IPO",
-    "summary": "Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations. Its IPO price is expected to be between $70.00 and $78.00 per share, which would put its valuation as high as $1.4 trillion, according to the The New York Times. The Wall Street Journal reports that according to its sources, Anthropic is \"aiming for its shares to start trading Thursday or Friday next week.\"\nAs Reuters notes, the Anthropic IPO was previously expected to be valued at as much as $2 trillion. As of last week, Anthropic's rival OpenAI was valued at $1.25 trillion.\nThose lower expectations follow month …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
-    "date": "2026-11-10T14:06:54.000Z"
-  },
-  {
-    "title": "Adobe is going all in on agentic AI",
-    "summary": "Adobe is committing itself to the notion that chatbots and AI agents could be your next design assistant, or even automate creative workflows and repetitive tasks on your behalf. Some of the tools and features announced today at Adobe's Max conference in Miami, Florida, include allowing your preferred third-party AI agents to access and change Creative Cloud projects, new capabilities for Adobe's Firefly AI Assistant, and the ability for AI agents to keep perpetually running recurring work in the background.\nLocal Model Context Protocol (MCP) integrations for Creative Cloud tools were previewed at the event, which aim to give you a choice b …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
-    "date": "2026-11-10T14:00:00.000Z"
-  },
-  {
-    "title": "Photoshop, Lightroom, and Premiere are making it easier to remove things",
-    "summary": "Photoshop’s Quick Compare feature lets you quickly review a before-and-after comparison of edits. | Image: Adobe\t\n\nAdobe is expanding its Creative Cloud apps and Firefly AI platform with new capabilities that aim to make design and editing projects faster and less complicated. Some of the announcements from Adobe's Max event today include features for automatically removing objects, blemishes, and other unwanted distractions in Premiere, Photoshop, and Lightroom, alongside new generative AI tools and collaborative experiences across Adobe's apps and Firefly suite.\nIn Premiere, Adobe is introducing a new Generative Remove tool in beta that lets you erase unwanted objects and distractions like boom mics and background clutter directly on the video editing …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates",
-    "date": "2026-11-10T14:00:00.000Z"
-  },
-  {
-    "title": "Hands-on with Ring’s new AI drone camera for your home",
-    "summary": "Ring’s new Drone Cam is a flying indoor security camera.\t\n\nRing is finally shipping a flying indoor drone camera. For real this time. The Ring Drone Cam will arrive on January 27th, 2027, for $249.99, Ring founder Jamie Siminoff said at a launch event in New York City this week. If it does actually ship, it will arrive almost six years after the company announced its first flying camera, the Ring Always Home Cam.\nDesigned to patrol inside your home when you're not there, the Drone Cam is an AI-powered drone that can react to triggers from Ring sensors, such as detecting motion, a door opening, a water leak, or an alarm sounding. When triggered, it flies along preprogrammed routes to a set location, …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot",
-    "date": "2026-11-10T13:30:00.000Z"
   },
   {
     "title": "'Welcome to the AGI era': OpenAI launches GPT-6 Astra",
