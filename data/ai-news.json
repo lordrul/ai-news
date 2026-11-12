@@ -1,7 +1,19 @@
 [
   {
+    "title": "I reviewed the Apple HomeView, ask me anything",
+    "summary": "Getting up close and personal with the Apple HomeView. | Photo: Hunter McRae for The Verge\t\n\nHi! I'm Jen Tuohy, The Verge's senior smart home reviewer. I've tested every smart display Amazon and Google have ever made, and for the past week I've been testing Apple's first: The $299 HomeView.\nI put the tabletop and wall-mounted versions through their paces, on my kitchen counter, bedside table, in my office, and on my coffee table. I also mounted one as a smart home control panel in my entryway. I cooked with it, ran my smart home from it, took calls on it, and tested its new Siri AI capabilities. \nI also let my family loose on it, and my tech-averse husband was a big fan. My teenage daughter, less so. (Ask me why).\n\n\n  \n \n  \n \n\n\n \n\n View t …\n\n\n\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/tech/1031868/i-reviewed-the-apple-homeview-ask-me-anything",
+    "date": "2026-11-12T14:10:00.000Z"
+  },
+  {
+    "title": "Nvidia CEO Jensen Huang resigns amid spy, affair scandals",
+    "summary": "Jensen Huang at GTC Berlin last month. | Photo: Soeren Stache / picture alliance via Getty Images\t\n\nNvidia's board announced that Jensen Huang - its longtime co-founder, president, and CEO - has resigned after reports of two extramarital affairs, one with an alleged Chinese spy and one with an Nvidia executive who reported to Huang. Following a late Wednesday night meeting, the board accepted Huang's letter of resignation as CEO, president, and board member, effective immediately, with current CFO Colette Kress appointed interim CEO. Kress has been with Nvidia since 2013, with previous stops at Cisco and Microsoft.\nNvidia is also changing its corporate structure in Huang's absence, appointing former Synopsys CEO Harvey C. Jones as the fir …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1031689/jensen-huang-nvidia-ceo-resigns",
+    "date": "2026-11-12T13:53:16.000Z"
+  },
+  {
     "title": "Nvidia is reportedly preparing to fire Jensen Huang",
-    "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was with an executive who reports to him, Nvidia's vice president of health care, Kimberly Powell, according to the Times. \nThe Nvidia board will meet as soon as today to decide on Huang's future at the company, according to the Journal. Nvidia did not immediately respond to a request for comment from The Verge.\nHuang and Powell, who are both marri …\nRead the full story at The Verge.",
+    "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from The New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was with an executive who reports to him, Nvidia's vice president of health care, Kimberly Powell, according to the Times.\nThe Nvidia board will meet as soon as Wednesday night to decide on Huang's future at the company, according to the Journal. Nvidia did not immediately respond to a request for comment from The Verge.\nOn Thursday morning, Nvidia ann …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
     "date": "2026-11-11T22:44:36.000Z"
   },
@@ -46,18 +58,6 @@
     "summary": "Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in \"any capacity.\" Soon after, the developer of indie hit Big Walk has published a statement saying it \"sparingly\" used AI in the \"final stretch\" of the game's development to \"help work through difficult technical challenges and bugs.\"\nAccording to the jurors' statement, a copy of which was posted by Austin Walker, while this year's IGF entries have been \"incredible,\" there has been \"a significant increase\" in the number of games \"developed with generative AI tools,\" leading to \"fairly intense discussion a …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
     "date": "2026-11-10T17:32:47.000Z"
-  },
-  {
-    "title": "Anthropic has its own AI-powered office suite now",
-    "summary": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs - like OpenAI, SpaceXSI, and Meta - to copy its strategies. Earlier this year, Claude Code went through its own particular hype cycle. And now, Anthropic is trying to expand its footprint to other knowledge workers with an AI-powered suite of office tools.\nAt an event in San Francisco on Tuesday, Anthropic unveiled new tools for non-technical workers who spend a lot of time attending meetings, brainstorming new ideas, and analyzing metrics: Claude Meetings, Claude Sheets, and Claude W …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
-    "date": "2026-11-10T17:30:00.000Z"
-  },
-  {
-    "title": "eBay appears to have shut the door on third-party AI agents",
-    "summary": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race.\nA reader tells The Verge that for several weeks he's had his Muse agent browse and curate a daily digest of watches for sale on platforms like eBay, including a link to listings, price, shipping details, and relevant notes about condition or style. This weekend, though, Muse was unable to pull any links or details from eBay, with Muse saying it was blocked from the site. The Verge was able to re-create the experience using other search requests, and in some cases we found that Muse instead directed users …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
-    "date": "2026-11-10T16:20:30.000Z"
   },
   {
     "title": "'Welcome to the AGI era': OpenAI launches GPT-6 Astra",
