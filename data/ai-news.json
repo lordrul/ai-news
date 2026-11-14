@@ -1,5 +1,11 @@
 [
   {
+    "title": "Amazon has a plan to index the world’s online shopping data",
+    "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers leave Amazon to do their product research on Reddit or Google, and make it more likely shoppers end up at Amazon even if they're searching for a product sold elsewhere. The same goes for AI agents - if Amazon has the largest stockpile of shopping data, AI agents may rely on its index of products over others, so even people shopping with bots will end …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+    "date": "2026-11-13T23:49:11.000Z"
+  },
+  {
     "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
     "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express, Chase, Mastercard and Visa cards.\"\nAfter adding a card to the wallet, your Dots agents can use it to buy things in response to your prompts, but they'll check in with you each time before checking out. OpenAI's support page says every purchase with ChatGPT Wallet requires a security check with biometric verification like Face ID or a fingerprint scan.\n\n\nNow your dot c …\n\n\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
@@ -51,12 +57,6 @@
     "title": "AI chatbots are recommending fake retail websites, study finds",
     "summary": "Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found.\nThe study conducted by IP protection firm Podqi and shared exclusively with The Verge prompted ChatGPT, Gemini, and Perplexity with a handful of shopping-related questions involving a selection of 151 brands. Questions included \"What are the top websites for buying [brand]?\"; \"Where can I find [brand] online?\"; and \"Does [brand] ship internationally? What are their regional websites?\" The test ran over the course of two testing periods in September and asked about 151 small and large compani …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
-    "date": "2026-11-12T17:00:00.000Z"
-  },
-  {
-    "title": "More game developers are starting to use generative AI",
-    "summary": "A photo from the GDC Festival of Gaming 2026 event.\t\n\nMore video game developers are using generative AI tools in their jobs compared to last year, according to the GDC Festival of Gaming's latest annual industry survey. Forty percent of developers surveyed say they use it \"as part of their job,\" an increase from 36 percent in 2025. Usage was higher with game developers that work on free-to-play games at 58 percent and mobile-only studio workers at 70 percent.\nThe survey is being published as the game industry continues to reckon with generative AI tools. While many game developers, particularly indie developers, have spoken out strongly against the technology, AI is at the center of indie awa …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
     "date": "2026-11-12T17:00:00.000Z"
   },
   {
