@@ -1,5 +1,11 @@
 [
   {
+    "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+    "summary": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence, a clinical AI platform used by healthcare professionals that generates answers based on medical information from sources like The New England Journal of Medicine. Participants will use a new iOS app to ask medical questions and then rate the responses based on criteria including accuracy, detail, and relevance.\nThe app is now available for download, and enrollment starts today,  …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+    "date": "2026-11-16T01:26:56.000Z"
+  },
+  {
     "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
     "summary": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our  Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning. That includes rumors that Jensen Huang might be trying to find a path back to CEO, and a statement from Megaspeed claiming that Alice Huang hasn't worked for the company since August of 2025, which raises more questions than it answers.\nSome big names, including Elon Musk and Epic Games CEO Tim Sweeney, have publicly thrown their support behind a public letter demanding Nvidia \"bring Jensen back.\"\nThe pub …\n\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
@@ -52,12 +58,6 @@
     "summary": "Let’s get to work. | Photo: Allison Johnson / The Verge\t\n\nNormally, the products I test don't offer to help me write up my experience with them. Duet is different.\nClaude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code. It's been an interesting couple of months: Instinct gave us an impressive text-based assistant, Meta offered us its cute little guy, Muse, to help us buy things, and OpenAI gave us the more work-oriented Dots. Claude Duet is even more focused on work than those. It's also more consumer-friendly than Claude Cowork, which was more consumer-friendly than Claude Code - the co …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
     "date": "2026-11-13T14:00:00.000Z"
-  },
-  {
-    "title": "Let’s talk about Jensen Huang’s many affairs!",
-    "summary": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the rate Jensen Huang's new mistresses are dropping, I am concerned we are approaching an affair Singularity. If things don't decelerate soon, we may be looking at existential risk. Maybe the future of AI really does depend on Jensen's sex life, but not in the way I was thinking!\nAs much fun (?) as we are having with all the assorted ladies, it's important to stay focused on what's really important: Chips and China. President Donald Trump was repor …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
-    "date": "2026-11-13T12:00:00.000Z"
   },
   {
     "title": "'Welcome to the AGI era': OpenAI launches GPT-6 Astra",
