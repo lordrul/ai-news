@@ -1,5 +1,17 @@
 [
   {
+    "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+    "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them.\n\"We're not going to allow our companies to build data centers outside of our country,\" Trump said at a press conference Friday following his summit with China President Xi Jinping and Russia President Vladimir Putin. \"They allowed that to happen with chips and everything else, and it was very destructive to our country. It's where we started going behind.\" Should the US allow data centers to be built outside of the country, T …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+    "date": "2026-11-20T18:50:19.000Z"
+  },
+  {
+    "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+    "summary": "Anthropic went public on November 19th, 2026. | Photo: Getty Images\t\n\nAnthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic achievement for AI in mathematics and add to the upheaval already unleashed by OpenAI's previous, often inelegant forays into the field.\nAlpöge's solution has yet to be verified independently. Anthropic has not commented or involved itself in Alpöge's announcement. In a document on his website, Alpöge says he texted Anthropic CEO Dario Amodei abo …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+    "date": "2026-11-20T16:34:13.000Z"
+  },
+  {
     "title": "The week everything fell apart",
     "summary": "There was a dayslong Outlook outage. A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working. Even iCloud couldn't stay up and running. This week, it felt like the technological world simply collapsed. And it felt like this might be the beginning of something even bigger.\nOn this episode of The Vergecast, Nilay and David go through the week's many calamities, and try to explain both what happened in each case - which was generally much milder than the conspiracy theories would have you believe - and why all these small issues might still add up to something worth worrying about. In a world filled …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
@@ -13,7 +25,7 @@
   },
   {
     "title": "Apple is hiring engineers to build its own AI agent",
-    "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic AI assistant.\nAn AI agent from Apple would put the iPhone maker in the running to compete with the likes of Meta's Muse, OpenAI's Dots, Anthropic's Duet, and Google's Tasks. Muse, ChatGPT, and Perplexity can already take control of a computer through their Mac apps, while Google just started letting Gemini do the same.\nApple began rolling out it …\nRead the full story at The Verge.",
+    "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a now-removed job listing spotted by Bloomberg, which said Apple is looking for an engineer to lead the creation of an agentic AI assistant.\nAn AI agent from Apple would put the iPhone maker in the running to compete with the likes of Meta's Muse, OpenAI's Dots, Anthropic's Duet, and Google's Tasks. Muse, ChatGPT, and Perplexity can already take control of a computer through their Mac apps, while Google just started letting Gemini do the same.\nApple began ro …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
     "date": "2026-11-19T22:31:41.000Z"
   },
@@ -46,18 +58,6 @@
     "summary": "Anthropic CEO Dario Amodei speaks at the Nasdaq ahead of his company’s public debut. | Photo: Michael Nagle / Bloomberg via Getty Images\t\n\nAnthropic has officially gone public. It began trading on the Nasdaq under the ticker symbol \"ANT\" at $111.50 per share, up from its initial $83 per share price that put company's value at around $1.5 trillion.\nThe listing comes nearly a month after Anthropic revealed its plans to go public. In its lengthy S-1 filing, the AI company reported recording an $80.7 billion net loss in the first half of this year, most of which comes from an accounting charge that doesn't reflect its business, along with $16.3 billion in revenue. The filing outlines plans that Anthropic says will help it develop AI for the benefit of humanity, which includes a go …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
     "date": "2026-11-19T16:52:01.000Z"
-  },
-  {
-    "title": "ChatGPT can transcribe as you speak now with Live Dictation",
-    "summary": "ChatGPT can receive  audio prompts from your microphone faster now with a Live Dictation feature that transcribes as you speak, rather than waiting until you finish recording. It's rolling out now globally on all ChatGPT plans on the web, desktop app, and iOS and Android apps. While using dictation in ChatGPT, you can tap or click the audio waveform to show the live text transcript the AI is generating, then edit it in the prompt box when you're done.\n\n\nDictation in ChatGPT is getting faster and more reliable. \nWith Live Dictation, your speech turns into text as you talk, so you spend less time waiting for your message to finish transcribing.\n …\n\n\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
-    "date": "2026-11-19T15:16:45.000Z"
-  },
-  {
-    "title": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
-    "summary": "Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public AI lab debuts to come. But it's not simply a financial milestone.\nAnthropic was founded on the idea that it prioritized safety more than other labs; its founders had left executive research positions at OpenAI. As the AI race has accelerated, though, its executives have emphasized that Anthropic can only fulfill this mission by coming in first place, requiring lots of money and compute. Unsurprisingly, thoughtful, safe, and intentional AI develop …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
-    "date": "2026-11-19T14:25:37.000Z"
   },
   {
     "title": "'Welcome to the AGI era': OpenAI launches GPT-6 Astra",
