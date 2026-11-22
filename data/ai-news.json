@@ -1,5 +1,17 @@
 [
   {
+    "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+    "summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found several audio files with Suno metadata that pointed back to the tracks on Suno's site.\nCreator Edmund McMillen took to X to apologize and claimed he \"had no idea\" the in-game GTA parody used generative AI music. Adding to the drama, Valve requires developers to disclose how and when they use generative AI in the development process, and Nicalis, Inc., the studio behin …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+    "date": "2026-11-22T17:25:20.000Z"
+  },
+  {
+    "title": "The vibe-coding revolution is coming to all the gadgets",
+    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here.\nHow it started\nLike so many things with AI, it's not that large language models opened up some wholly new capability. For as long as there have been gadgets, a few users have been hacking, modding, jailbreaking, and tweaking them to their liking. What is new is that it's easy now. People all over the world are discovering that they can use large language models to hack their hardwar …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+    "date": "2026-11-22T13:00:00.000Z"
+  },
+  {
     "title": "Even the fastest AI clusters can be held back by their release pipelines",
     "summary": "A firmware rollout I was running had been moving zone by zone for six days when it stopped itself. The page always comes as a silent vibration first, but at 1:14 AM it feels like a fire alarm. In one zone, the share of hosts that rebooted uncleanly during the update had crossed the safety threshold, so the automation froze the rollout and flagged it for a person.\nRead more",
     "url": "https://venturebeat.com/orchestration/even-the-fastest-ai-clusters-can-be-held-back-by-their-release-pipelines",
@@ -72,21 +84,9 @@
     "date": "2026-11-19T22:31:41.000Z"
   },
   {
-    "title": "A brief history of Nvidia’s recent stock fluctuations",
-    "summary": "Traders work on the floor of the New York Stock Exchange during morning trading on November 18, 2026 in New York City. | Image: Getty Images\t\n\n\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call.\nBy Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on October 6th, and wiping out a brief post-earnings pop on Tuesday night. Meanwhile, Wall Street was paying up for one of Nvidia's biggest customers as Anthropic made its Nasdaq debut at $111.50 per share - 34 percent higher than expected.\nLooking at the earnings report numbers alone, Nvidia had a blockbuster quarter. Q3 revenue more than doubled from the same period …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
-    "date": "2026-11-19T21:59:35.000Z"
-  },
-  {
     "title": "Uber blew through its AI budget, then dialed back context and reasoning in its AI coding tools",
     "summary": "When an Uber engineer opens Claude Code for an interactive coding session, automatic compaction kicks in at 400,000 tokens, even for models with million-token context windows. Reasoning effort defaults to medium, not high. No MCP tool definitions load into the context at startup. The engineer didn’t pick any of those settings; Uber picked them.\nRead more",
     "url": "https://venturebeat.com/infrastructure/uber-blew-through-its-ai-budget-then-dialed-back-context-and-reasoning-in-its-ai-coding-tools",
     "date": "Thu, 19 Nov 2026 20:55:32 GMT"
-  },
-  {
-    "title": "Meta’s Muse Charm might cost $300",
-    "summary": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm \"in time for the holidays in December,\" but he didn't provide a price at the time.\nWhen he announced the Muse Charm, Zuckerberg said that the company had \"packed the whole Muse experience,\" including real-time voice and avatar technology, into the gadget. It has a fingerprint sensor, and you can tap it to be able to talk to a Muse AI agent without unlocking a phone or opening an app.  …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
-    "date": "2026-11-19T20:22:17.000Z"
   }
 ]
