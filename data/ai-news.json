@@ -1,5 +1,17 @@
 [
   {
+    "title": "We haven’t seen the last of the major tech outages",
+    "summary": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come. Director of National Intelligence Jay Clayton told CNN:\n\"The American people should be prepared for a great deal of investment in upgrading our systems; they should be prepared for investment in cybersecurity, and they should be prepared that any time there is a step change in technology, a step change in both compute and applications, there will be bumps in the road.\"\nMicrosoft President Brad Smith issued a  …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/tech/1039851/major-tech-outages",
+    "date": "2026-11-22T22:48:02.000Z"
+  },
+  {
+    "title": "Your ML model passed every test. Here’s what those tests might have missed",
+    "summary": "Most ML models are tested the way students cram for an exam: On clean, familiar material, under comfortable conditions. Then they graduate into production — where the inputs are messy, the labels drift, and nobody is grading on a curve. The result is the most common failure mode in applied ML: A model that looked excellent in the lab and silently degrades in the wild.\nRead more",
+    "url": "https://venturebeat.com/orchestration/your-ml-model-passed-every-test-heres-what-those-tests-might-have-missed",
+    "date": "Sun, 22 Nov 2026 22:00:00 GMT"
+  },
+  {
     "title": "Binding of Isaac developer removes AI music from Repentance Plus",
     "summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found several audio files with Suno metadata that pointed back to the tracks on Suno's site.\nCreator Edmund McMillen took to X to apologize and claimed he \"had no idea\" the in-game GTA parody used generative AI music. Adding to the drama, Valve requires developers to disclose how and when they use generative AI in the development process, and Nicalis, Inc., the studio behin …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
@@ -76,17 +88,5 @@
     "summary": "Signal users on iOS will see this option to toggle blocking screenshots and preventing Siri AI from scanning on-screen content. | Image: Signal\t\n\nSignal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are \"undermining Signal's ability to independently guarantee privacy,\" Signal president Meredith Whittaker said in a blog post, while urging OS providers to make it easier for app developers to control what data agents can access.\n\"We want to be very clear: it is a serious problem that Signal - and application developers beyond - lack robust tools to prevent AI age …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
     "date": "2026-11-20T12:30:47.000Z"
-  },
-  {
-    "title": "Apple is hiring engineers to build its own AI agent",
-    "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a now-removed job listing spotted by Bloomberg, which said Apple is looking for an engineer to lead the creation of an agentic AI assistant.\nAn AI agent from Apple would put the iPhone maker in the running to compete with the likes of Meta's Muse, OpenAI's Dots, Anthropic's Duet, and Google's Tasks. Muse, ChatGPT, and Perplexity can already take control of a computer through their Mac apps, while Google just started letting Gemini do the same.\nApple began ro …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
-    "date": "2026-11-19T22:31:41.000Z"
-  },
-  {
-    "title": "Uber blew through its AI budget, then dialed back context and reasoning in its AI coding tools",
-    "summary": "When an Uber engineer opens Claude Code for an interactive coding session, automatic compaction kicks in at 400,000 tokens, even for models with million-token context windows. Reasoning effort defaults to medium, not high. No MCP tool definitions load into the context at startup. The engineer didn’t pick any of those settings; Uber picked them.\nRead more",
-    "url": "https://venturebeat.com/infrastructure/uber-blew-through-its-ai-budget-then-dialed-back-context-and-reasoning-in-its-ai-coding-tools",
-    "date": "Thu, 19 Nov 2026 20:55:32 GMT"
   }
 ]
