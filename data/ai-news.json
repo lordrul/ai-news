@@ -1,5 +1,11 @@
 [
   {
+    "title": "Z.ai's GLM-5.4 aims to match models up to four times its size by running 28 layers twice",
+    "summary": "GLM-5.4 is Z.ai's first flagship built on a Loop Transformer architecture, which reuses the same layers more than once instead of stacking new ones, so the model gets more depth and more computation per token without adding parameters. Thinking Machines Lab used a looped transformer in its Inkling 2 Mini model, which was released last week.\nRead more",
+    "url": "https://venturebeat.com/technology/z-ais-glm-5-4-aims-to-match-models-up-to-four-times-its-size-by-running-28-layers-twice",
+    "date": "Tue, 24 Nov 2026 00:34:59 GMT"
+  },
+  {
     "title": "Trump engineered a risky comeback for Jensen Huang",
     "summary": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's radio show shortly after the news came out, Trump said that Huang would \"end up on his feet.\"\n\"You know the expression, anybody can be replaced,\" Trump said, floating Apple's ex-CEO Tim Cook as a potential CEO candidate.\nIt didn't take long for Trump to begin softening his approach, making it clear he'd welcome Huang back into the role of CEO even if Nvidia's own board wasn't ready to do so. Behind the scen …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
@@ -82,11 +88,5 @@
     "summary": "Presented by JumpCloud\nRead more",
     "url": "https://venturebeat.com/security/ai-is-changing-who-gets-a-say-in-it-decisions",
     "date": "Mon, 23 Nov 2026 15:30:00 GMT"
-  },
-  {
-    "title": "AI agents have permission. Who’s checking the blast radius?",
-    "summary": "Presented by Applivery\nRead more",
-    "url": "https://venturebeat.com/security/ai-agents-have-permission-whos-checking-the-blast-radius",
-    "date": "Mon, 23 Nov 2026 14:21:35 GMT"
   }
 ]
