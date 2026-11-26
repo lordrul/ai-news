@@ -1,5 +1,11 @@
 [
   {
+    "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+    "summary": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off \"the private chat histories of more than 21 million U.S. accounts - more than 2.1 million of them registered to minors - with no safeguards for the people whose conversations are being sold.\"\nIn October, Character.AI filed for bankruptcy following years of scandals and legal challenges, including from Disney. Disney ended up buying some of the company's assets and hiring its CEO, K …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+    "date": "2026-11-26T09:54:40.000Z"
+  },
+  {
     "title": "MCP servers can now deliver AI agent skills, changing what companies approve when they connect one",
     "summary": "Anthropic is adding support for Skills over MCP in Claude and Claude Code in public beta, two years after introducing the Model Context Protocol (MCP).\nRead more",
     "url": "https://venturebeat.com/technology/mcp-servers-can-now-deliver-ai-agent-skills-changing-what-companies-approve-when-they-connect-one",
@@ -82,11 +88,5 @@
     "summary": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket. Suddenly, from behind him, Alice Huang - the Chinese technology executive and suspected spy he had an affair with, sparking congressional investigations and his resignation from the chipmaking company he cofounded - appears. She puts her hand on his shoulder and he wraps his arm around her waist as they begin dancing together. The video's caption reads \"Honey Trap Final Boss. #inthemoodforlove.\"\nOf course, it's AI-genera …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
     "date": "2026-11-24T16:30:00.000Z"
-  },
-  {
-    "title": "The New York Times warns photographers not to update Photoshop over AI features",
-    "summary": "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI \"in ways that may not be apparent to users.\" In an email seen by The Verge and posted on Threads, two of the Times' photography leaders, Meaghan Looram and Josh Haner, write that the use of these features \"can result in metadata identifying photographs as AI-generated.\"\nAdobe has spent the past few years filling Photoshop and other apps in its creative suite with a trove of AI-powered tools. The November update cited by the NYT's email adds several new AI features, including Adobe's new \"AI Assiste …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-    "date": "2026-11-24T16:09:23.000Z"
   }
 ]
