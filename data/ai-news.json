@@ -1,5 +1,17 @@
 [
   {
+    "title": "AI is collapsing centuries of math and science research into days — is The Singularity upon us?",
+    "summary": "For most of human history, a landmark mathematical conjecture fell perhaps once a decade, usually after a lone scholar spent years pacing a quiet office, filling chalkboards with dead ends.\nRead more",
+    "url": "https://venturebeat.com/technology/ai-is-collapsing-centuries-of-math-and-science-research-into-days-is-the-singularity-upon-us",
+    "date": "Fri, 27 Nov 2026 19:16:10 GMT"
+  },
+  {
+    "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+    "summary": "Widgets, your way. | Photo: Allison Johnson / The Verge\t\n\nAside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus.\nWhat I need is a widget. It needs to tell me real-time arrivals for the bus stop near my house. Tapping around on my phone screen to open the right app and select my stop will slow me down enough to miss a bus. I need glanceable information, and I hoped that Android's vibe-coded widget feature could help me out here. It hasn't, to my disappointment, but I still had a good time cooking up other widgets.\nGoogle announced the ability to create custom widgets using AI back at I/O in the spring. It's called Create My Widget, and it's pa …\nRead the full story at The Verge.",
+    "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+    "date": "2026-11-27T14:00:00.000Z"
+  },
+  {
     "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
     "summary": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off \"the private chat histories of more than 21 million U.S. accounts - more than 2.1 million of them registered to minors - with no safeguards for the people whose conversations are being sold.\"\nIn October, Character.AI filed for bankruptcy following years of scandals and legal challenges, including from Disney. Disney ended up buying some of the company's assets and hiring its CEO, K …\nRead the full story at The Verge.",
     "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
@@ -76,17 +88,5 @@
     "summary": "Snowflake sets limits on what its employees spend on AI, and then studies the employees who blow through the limits. The data cloud company treats an overrun as a possible lead on a workflow that other employees could copy.\nRead more",
     "url": "https://venturebeat.com/orchestration/after-token-leaderboards-and-spending-caps-snowflake-has-a-third-idea-keep-the-cap-then-learn-from-whoever-breaks-it",
     "date": "Tue, 24 Nov 2026 18:13:55 GMT"
-  },
-  {
-    "title": "Tidal will start banning AI-generated music next month",
-    "summary": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert Andersen.\nThe move comes just months after Tidal began labeling and demonetizing tracks identified as 100 percent AI-generated. In a post on X, Andersen says Tidal needed to take a more \"drastic\" measure, as AI music made up 43 percent of the tracks distributed to the platform in the last 90 days. \"We believe this will resonate with both artists and listeners alike, as 96% of all AI-generated songs recei …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
-    "date": "2026-11-24T17:17:09.000Z"
-  },
-  {
-    "title": "Jensen Huang deepfakes are the hot new AI slop",
-    "summary": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket. Suddenly, from behind him, Alice Huang - the Chinese technology executive and suspected spy he had an affair with, sparking congressional investigations and his resignation from the chipmaking company he cofounded - appears. She puts her hand on his shoulder and he wraps his arm around her waist as they begin dancing together. The video's caption reads \"Honey Trap Final Boss. #inthemoodforlove.\"\nOf course, it's AI-genera …\nRead the full story at The Verge.",
-    "url": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
-    "date": "2026-11-24T16:30:00.000Z"
   }
 ]
